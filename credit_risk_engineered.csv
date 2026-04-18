@@ -1,0 +1,955 @@
+unnamed:_0,age,sex,job,housing,saving_accounts,checking_account,credit_amount,duration,purpose,credit_risk,default_status,monthly_burden,age_group,risk_tier
+0,67,male,2,own,none/unknown,little,1169,6,radio/TV,1,0,194.833333333333,Elderly,Standard
+1,22,female,2,own,little,moderate,5951,48,radio/TV,2,1,123.979166666667,Young Adult,Critical Risk
+2,49,male,1,own,little,none/unknown,2096,12,education,1,0,174.666666666667,Senior,Standard
+3,45,male,2,free,little,little,7882,42,furniture/equipment,1,0,187.666666666667,Adult,Critical Risk
+4,53,male,2,free,little,little,4870,24,car,2,1,202.916666666667,Senior,Standard
+5,35,male,1,free,none/unknown,none/unknown,9055,36,education,1,0,251.527777777778,Adult,Standard
+6,53,male,2,own,quite rich,none/unknown,2835,24,furniture/equipment,1,0,118.125,Senior,Low Risk
+7,35,male,3,rent,little,moderate,6948,36,car,1,0,193,Adult,Critical Risk
+8,61,male,1,own,rich,none/unknown,3059,12,radio/TV,1,0,254.916666666667,Elderly,Low Risk
+9,28,male,3,own,little,moderate,5234,30,car,2,1,174.466666666667,Young Adult,Critical Risk
+10,25,female,2,rent,little,moderate,1295,12,car,2,1,107.916666666667,Young Adult,Standard
+11,24,female,2,rent,little,little,4308,48,business,2,1,89.75,Young Adult,Standard
+12,22,female,2,own,little,moderate,1567,12,radio/TV,1,0,130.583333333333,Young Adult,Standard
+13,60,male,1,own,little,little,1199,24,car,2,1,49.9583333333333,Senior,Standard
+14,28,female,2,rent,little,little,1403,15,car,1,0,93.5333333333333,Young Adult,Standard
+15,32,female,1,own,moderate,little,1282,24,radio/TV,2,1,53.4166666666667,Adult,Standard
+16,53,male,2,own,none/unknown,none/unknown,2424,24,radio/TV,1,0,101,Senior,Standard
+17,25,male,2,own,none/unknown,little,8072,30,business,1,0,269.066666666667,Young Adult,Standard
+18,44,female,3,free,little,moderate,12579,24,car,2,1,524.125,Adult,Critical Risk
+19,31,male,2,own,quite rich,none/unknown,3430,24,radio/TV,1,0,142.916666666667,Adult,Low Risk
+20,48,male,2,own,little,none/unknown,2134,9,car,1,0,237.111111111111,Senior,Standard
+21,44,male,2,rent,quite rich,little,2647,6,radio/TV,1,0,441.166666666667,Adult,Low Risk
+22,48,male,1,rent,little,little,2241,10,car,1,0,224.1,Senior,Standard
+23,44,male,2,own,moderate,moderate,1804,12,car,1,0,150.333333333333,Adult,Standard
+24,26,male,2,own,none/unknown,none/unknown,2069,10,furniture/equipment,1,0,206.9,Young Adult,Standard
+25,36,male,1,own,little,little,1374,6,furniture/equipment,1,0,229,Adult,Standard
+26,39,male,1,own,little,none/unknown,426,6,radio/TV,1,0,71,Adult,Standard
+27,42,female,2,rent,rich,rich,409,12,radio/TV,1,0,34.0833333333333,Adult,Low Risk
+28,34,male,2,own,little,moderate,2415,7,radio/TV,1,0,345,Adult,Standard
+29,63,male,2,own,little,little,6836,60,business,2,1,113.933333333333,Elderly,Critical Risk
+30,36,male,2,own,rich,moderate,1913,18,business,1,0,106.277777777778,Adult,Low Risk
+31,27,male,2,own,little,little,4020,24,furniture/equipment,1,0,167.5,Young Adult,Standard
+32,30,male,2,own,moderate,moderate,5866,18,car,1,0,325.888888888889,Young Adult,Standard
+33,57,male,1,rent,none/unknown,none/unknown,1264,12,business,1,0,105.333333333333,Senior,Standard
+34,33,female,3,own,little,rich,1474,12,furniture/equipment,1,0,122.833333333333,Adult,Standard
+35,25,male,1,own,little,moderate,4746,45,radio/TV,2,1,105.466666666667,Young Adult,Standard
+36,31,male,2,free,little,none/unknown,6110,48,education,1,0,127.291666666667,Adult,Critical Risk
+37,37,male,2,own,little,rich,2100,18,radio/TV,2,1,116.666666666667,Adult,Standard
+38,37,male,2,own,little,rich,1225,10,domestic appliances,1,0,122.5,Adult,Standard
+39,24,male,2,own,little,moderate,458,9,radio/TV,1,0,50.8888888888889,Young Adult,Standard
+40,30,male,3,own,quite rich,none/unknown,2333,30,radio/TV,1,0,77.7666666666667,Young Adult,Low Risk
+41,26,male,2,own,quite rich,moderate,1158,12,radio/TV,1,0,96.5,Young Adult,Low Risk
+42,44,male,1,own,little,moderate,6204,18,repairs,1,0,344.666666666667,Adult,Critical Risk
+43,24,male,2,rent,moderate,little,6187,30,car,1,0,206.233333333333,Young Adult,Standard
+44,58,female,1,free,little,little,6143,48,car,2,1,127.979166666667,Senior,Critical Risk
+45,35,female,3,own,little,none/unknown,1393,11,car,1,0,126.636363636364,Adult,Standard
+46,39,male,2,own,quite rich,none/unknown,2299,36,radio/TV,1,0,63.8611111111111,Adult,Low Risk
+47,23,female,0,rent,quite rich,little,1352,6,car,1,0,225.333333333333,Young Adult,Low Risk
+48,39,male,1,own,little,none/unknown,7228,11,car,1,0,657.090909090909,Adult,Critical Risk
+49,28,female,2,own,moderate,none/unknown,2073,12,radio/TV,1,0,172.75,Young Adult,Standard
+50,29,male,1,own,none/unknown,moderate,2333,24,furniture/equipment,1,0,97.2083333333333,Young Adult,Standard
+51,30,male,3,own,little,moderate,5965,27,car,1,0,220.925925925926,Young Adult,Critical Risk
+52,25,male,2,own,little,none/unknown,1262,12,radio/TV,1,0,105.166666666667,Young Adult,Standard
+53,31,male,2,own,none/unknown,none/unknown,3378,18,car,1,0,187.666666666667,Adult,Standard
+54,57,male,2,free,little,moderate,2225,36,car,2,1,61.8055555555556,Senior,Standard
+55,26,male,1,own,none/unknown,none/unknown,783,6,car,1,0,130.5,Young Adult,Standard
+56,52,male,3,own,none/unknown,moderate,6468,12,radio/TV,2,1,539,Senior,Standard
+57,31,female,2,own,little,none/unknown,9566,36,radio/TV,1,0,265.722222222222,Adult,Critical Risk
+58,23,female,3,own,little,rich,1961,18,car,1,0,108.944444444444,Young Adult,Standard
+59,23,female,1,rent,little,little,6229,36,furniture/equipment,2,1,173.027777777778,Young Adult,Critical Risk
+60,27,male,2,own,little,moderate,1391,9,business,1,0,154.555555555556,Young Adult,Standard
+61,50,male,2,own,none/unknown,moderate,1537,15,radio/TV,1,0,102.466666666667,Senior,Standard
+62,61,male,3,free,little,moderate,1953,36,business,2,1,54.25,Elderly,Standard
+63,25,male,2,own,little,moderate,14421,48,business,2,1,300.4375,Young Adult,Critical Risk
+64,26,female,2,own,little,none/unknown,3181,24,radio/TV,1,0,132.541666666667,Young Adult,Standard
+65,48,male,2,own,none/unknown,none/unknown,5190,27,repairs,1,0,192.222222222222,Senior,Standard
+66,29,female,2,own,little,none/unknown,2171,12,radio/TV,1,0,180.916666666667,Young Adult,Standard
+67,22,male,2,own,rich,moderate,1007,12,car,1,0,83.9166666666667,Young Adult,Low Risk
+68,37,male,2,free,little,none/unknown,1819,36,education,2,1,50.5277777777778,Adult,Standard
+69,25,female,2,own,none/unknown,none/unknown,2394,36,radio/TV,1,0,66.5,Young Adult,Standard
+70,30,female,2,own,little,none/unknown,8133,36,car,1,0,225.916666666667,Young Adult,Critical Risk
+71,46,male,1,rent,none/unknown,none/unknown,730,7,radio/TV,1,0,104.285714285714,Senior,Standard
+72,51,male,3,free,little,little,1164,8,vacation/others,1,0,145.5,Senior,Standard
+73,41,female,1,own,little,moderate,5954,42,business,1,0,141.761904761905,Adult,Critical Risk
+74,40,male,3,own,none/unknown,little,1977,36,education,2,1,54.9166666666667,Adult,Standard
+75,66,male,3,free,little,little,1526,12,car,1,0,127.166666666667,Elderly,Standard
+76,34,male,2,own,little,little,3965,42,radio/TV,2,1,94.4047619047619,Adult,Standard
+77,51,male,2,own,little,moderate,4771,11,radio/TV,1,0,433.727272727273,Senior,Standard
+78,39,male,1,own,none/unknown,none/unknown,9436,54,car,1,0,174.740740740741,Adult,Standard
+79,22,male,2,own,little,moderate,3832,30,furniture/equipment,1,0,127.733333333333,Young Adult,Standard
+80,44,female,2,own,none/unknown,none/unknown,5943,24,radio/TV,2,1,247.625,Adult,Standard
+81,47,male,2,own,quite rich,none/unknown,1213,15,radio/TV,1,0,80.8666666666667,Senior,Low Risk
+82,24,female,1,rent,moderate,none/unknown,1568,18,business,1,0,87.1111111111111,Young Adult,Standard
+83,58,female,1,own,little,little,1755,24,vacation/others,1,0,73.125,Senior,Standard
+84,52,male,1,own,little,little,2315,10,radio/TV,1,0,231.5,Senior,Standard
+85,29,female,3,own,little,none/unknown,1412,12,business,1,0,117.666666666667,Young Adult,Standard
+86,27,female,2,own,little,moderate,1295,18,furniture/equipment,1,0,71.9444444444444,Young Adult,Standard
+87,47,male,2,free,moderate,moderate,12612,36,education,2,1,350.333333333333,Senior,Standard
+88,30,male,3,own,moderate,little,2249,18,car,1,0,124.944444444444,Young Adult,Standard
+89,28,male,2,own,little,little,1108,12,repairs,2,1,92.3333333333333,Young Adult,Standard
+90,56,male,2,own,little,none/unknown,618,12,radio/TV,1,0,51.5,Senior,Standard
+91,54,male,2,own,little,little,1409,12,car,1,0,117.416666666667,Senior,Standard
+92,33,female,1,own,none/unknown,none/unknown,797,12,radio/TV,2,1,66.4166666666667,Adult,Standard
+93,20,male,2,rent,none/unknown,rich,3617,24,furniture/equipment,1,0,150.708333333333,Young Adult,Standard
+94,54,male,2,own,rich,moderate,1318,12,car,1,0,109.833333333333,Senior,Low Risk
+95,58,male,2,rent,little,moderate,15945,54,business,2,1,295.277777777778,Senior,Critical Risk
+96,61,female,2,own,none/unknown,none/unknown,2012,12,education,1,0,167.666666666667,Elderly,Standard
+97,34,male,2,own,moderate,moderate,2622,18,business,1,0,145.666666666667,Adult,Standard
+98,36,male,2,own,little,moderate,2337,36,radio/TV,1,0,64.9166666666667,Adult,Standard
+99,36,male,3,rent,none/unknown,moderate,7057,20,car,1,0,352.85,Adult,Standard
+100,41,male,1,rent,moderate,none/unknown,1469,24,car,1,0,61.2083333333333,Adult,Standard
+101,24,male,2,rent,little,moderate,2323,36,radio/TV,1,0,64.5277777777778,Young Adult,Standard
+102,24,female,2,own,little,none/unknown,932,6,radio/TV,1,0,155.333333333333,Young Adult,Standard
+103,35,male,2,rent,little,moderate,1919,9,furniture/equipment,1,0,213.222222222222,Adult,Standard
+104,26,male,2,rent,none/unknown,none/unknown,2445,12,car,1,0,203.75,Young Adult,Standard
+105,39,male,3,own,little,moderate,11938,24,vacation/others,2,1,497.416666666667,Adult,Critical Risk
+106,39,male,3,own,little,none/unknown,6458,18,car,2,1,358.777777777778,Adult,Critical Risk
+107,32,male,2,own,little,moderate,6078,12,car,1,0,506.5,Adult,Critical Risk
+108,30,female,2,own,none/unknown,little,7721,24,furniture/equipment,1,0,321.708333333333,Young Adult,Standard
+109,35,male,2,own,quite rich,moderate,1410,14,business,1,0,100.714285714286,Adult,Low Risk
+110,31,male,2,own,moderate,moderate,1449,6,business,1,0,241.5,Adult,Standard
+111,23,female,2,rent,little,rich,392,15,education,1,0,26.1333333333333,Young Adult,Standard
+112,28,male,1,rent,little,moderate,6260,18,car,1,0,347.777777777778,Young Adult,Critical Risk
+113,25,female,2,own,little,none/unknown,7855,36,car,2,1,218.194444444444,Young Adult,Critical Risk
+114,35,male,2,own,quite rich,little,1680,12,radio/TV,1,0,140,Adult,Low Risk
+115,47,male,2,own,none/unknown,none/unknown,3578,48,radio/TV,1,0,74.5416666666667,Senior,Standard
+116,30,female,3,own,none/unknown,little,7174,42,radio/TV,2,1,170.809523809524,Young Adult,Standard
+117,27,female,2,rent,none/unknown,little,2132,10,furniture/equipment,1,0,213.2,Young Adult,Standard
+118,23,female,2,own,quite rich,little,4281,33,furniture/equipment,2,1,129.727272727273,Young Adult,Low Risk
+119,36,male,3,own,quite rich,moderate,2366,12,car,1,0,197.166666666667,Adult,Low Risk
+120,25,female,2,own,little,little,1835,21,radio/TV,2,1,87.3809523809524,Young Adult,Standard
+121,41,female,3,rent,little,none/unknown,3868,24,car,1,0,161.166666666667,Adult,Standard
+122,24,male,1,rent,little,none/unknown,1768,12,furniture/equipment,1,0,147.333333333333,Young Adult,Standard
+123,63,male,2,free,little,rich,781,10,car,1,0,78.1,Elderly,Standard
+124,27,female,2,rent,none/unknown,moderate,1924,18,furniture/equipment,2,1,106.888888888889,Young Adult,Standard
+125,30,male,2,own,little,little,2121,12,car,1,0,176.75,Young Adult,Standard
+126,40,male,1,own,little,little,701,12,radio/TV,1,0,58.4166666666667,Adult,Standard
+127,30,male,2,own,little,moderate,639,12,repairs,2,1,53.25,Young Adult,Standard
+128,34,male,3,own,little,moderate,1860,12,car,1,0,155,Adult,Standard
+129,29,female,2,own,little,little,3499,12,car,2,1,291.583333333333,Young Adult,Standard
+130,24,female,2,own,none/unknown,moderate,8487,48,car,1,0,176.8125,Young Adult,Standard
+131,29,male,2,own,little,little,6887,36,education,2,1,191.305555555556,Young Adult,Critical Risk
+132,27,male,1,own,little,none/unknown,2708,15,furniture/equipment,1,0,180.533333333333,Young Adult,Standard
+133,47,male,2,free,little,none/unknown,1984,18,furniture/equipment,1,0,110.222222222222,Senior,Standard
+134,21,female,2,own,moderate,none/unknown,10144,60,radio/TV,1,0,169.066666666667,Young Adult,Standard
+135,38,female,2,own,none/unknown,none/unknown,1240,12,radio/TV,1,0,103.333333333333,Adult,Standard
+136,27,male,2,own,rich,none/unknown,8613,27,car,1,0,319,Young Adult,Low Risk
+137,66,male,1,own,quite rich,moderate,766,12,radio/TV,2,1,63.8333333333333,Elderly,Low Risk
+138,35,male,2,own,none/unknown,moderate,2728,15,radio/TV,1,0,181.866666666667,Adult,Standard
+139,44,female,1,rent,little,rich,1881,12,radio/TV,1,0,156.75,Adult,Standard
+140,27,male,0,own,rich,rich,709,6,car,1,0,118.166666666667,Young Adult,Low Risk
+141,30,female,3,own,little,moderate,4795,36,radio/TV,1,0,133.194444444444,Young Adult,Standard
+142,27,male,3,own,little,little,3416,27,radio/TV,1,0,126.518518518519,Young Adult,Standard
+143,22,male,2,own,little,little,2462,18,furniture/equipment,2,1,136.777777777778,Young Adult,Standard
+144,23,female,2,own,little,none/unknown,2288,21,furniture/equipment,1,0,108.952380952381,Young Adult,Standard
+145,30,male,2,own,moderate,moderate,3566,48,business,1,0,74.2916666666667,Young Adult,Standard
+146,39,female,2,own,little,little,860,6,car,1,0,143.333333333333,Adult,Standard
+147,51,female,2,own,moderate,none/unknown,682,12,car,1,0,56.8333333333333,Senior,Standard
+148,28,male,2,own,little,little,5371,36,furniture/equipment,1,0,149.194444444444,Young Adult,Critical Risk
+149,46,male,2,own,rich,none/unknown,1582,18,radio/TV,1,0,87.8888888888889,Senior,Low Risk
+150,42,male,2,free,moderate,none/unknown,1346,6,radio/TV,1,0,224.333333333333,Adult,Standard
+151,38,male,2,own,little,none/unknown,1924,10,radio/TV,1,0,192.4,Adult,Standard
+152,24,male,2,own,little,rich,5848,36,radio/TV,1,0,162.444444444444,Young Adult,Critical Risk
+153,29,female,2,rent,rich,moderate,7758,24,car,1,0,323.25,Young Adult,Low Risk
+154,36,male,3,rent,moderate,moderate,6967,24,business,1,0,290.291666666667,Adult,Standard
+155,20,female,2,rent,little,little,1282,12,furniture/equipment,2,1,106.833333333333,Young Adult,Standard
+156,48,male,2,own,moderate,little,1288,9,repairs,1,0,143.111111111111,Senior,Standard
+157,45,male,1,own,little,little,339,12,education,1,0,28.25,Adult,Standard
+158,38,male,2,own,moderate,moderate,3512,24,car,1,0,146.333333333333,Adult,Standard
+159,34,male,1,own,none/unknown,none/unknown,1898,6,radio/TV,1,0,316.333333333333,Adult,Standard
+160,36,male,2,own,moderate,none/unknown,2872,24,radio/TV,1,0,119.666666666667,Adult,Standard
+161,30,female,2,own,little,none/unknown,1055,18,car,1,0,58.6111111111111,Young Adult,Standard
+162,36,male,2,own,quite rich,none/unknown,1262,15,domestic appliances,1,0,84.1333333333333,Adult,Low Risk
+163,70,male,3,free,little,moderate,7308,10,car,1,0,730.8,Elderly,Critical Risk
+164,36,male,2,own,quite rich,none/unknown,909,36,car,1,0,25.25,Adult,Low Risk
+165,32,male,2,own,quite rich,none/unknown,2978,6,furniture/equipment,1,0,496.333333333333,Adult,Low Risk
+166,33,female,2,own,little,little,1131,18,furniture/equipment,2,1,62.8333333333333,Adult,Standard
+167,20,female,2,own,rich,moderate,1577,11,furniture/equipment,1,0,143.363636363636,Young Adult,Low Risk
+168,25,female,2,rent,little,none/unknown,3972,24,furniture/equipment,1,0,165.5,Young Adult,Standard
+169,31,male,2,own,little,moderate,1935,24,business,2,1,80.625,Adult,Standard
+170,33,male,2,rent,little,little,950,15,car,2,1,63.3333333333333,Adult,Standard
+171,26,female,2,own,little,none/unknown,763,12,furniture/equipment,1,0,63.5833333333333,Young Adult,Standard
+172,34,female,3,own,little,moderate,2064,24,furniture/equipment,2,1,86,Adult,Standard
+173,33,male,2,own,little,moderate,1414,8,radio/TV,1,0,176.75,Adult,Standard
+174,26,male,2,own,little,little,3414,21,education,2,1,162.571428571429,Young Adult,Standard
+175,53,female,3,own,none/unknown,none/unknown,7485,30,car,2,1,249.5,Senior,Standard
+176,42,male,2,own,little,little,2577,12,furniture/equipment,1,0,214.75,Adult,Standard
+177,52,male,2,own,quite rich,little,338,6,radio/TV,1,0,56.3333333333333,Senior,Low Risk
+178,31,male,3,rent,little,none/unknown,1963,12,radio/TV,1,0,163.583333333333,Adult,Standard
+179,65,male,2,own,little,little,571,21,car,1,0,27.1904761904762,Elderly,Standard
+180,28,male,2,own,little,none/unknown,9572,36,business,2,1,265.888888888889,Young Adult,Critical Risk
+181,30,male,3,own,little,moderate,4455,36,business,2,1,123.75,Young Adult,Standard
+182,40,male,1,own,none/unknown,little,1647,21,car,2,1,78.4285714285714,Adult,Standard
+183,50,male,2,own,rich,none/unknown,3777,24,furniture/equipment,1,0,157.375,Senior,Low Risk
+184,36,male,2,own,little,moderate,884,18,car,2,1,49.1111111111111,Adult,Standard
+185,31,male,2,own,little,none/unknown,1360,15,radio/TV,1,0,90.6666666666667,Adult,Standard
+186,74,female,3,free,little,moderate,5129,9,car,2,1,569.888888888889,Elderly,Critical Risk
+187,68,male,0,free,little,moderate,1175,16,car,1,0,73.4375,Elderly,Standard
+188,20,male,2,own,moderate,little,674,12,radio/TV,2,1,56.1666666666667,Young Adult,Standard
+189,33,female,2,own,little,moderate,3244,18,furniture/equipment,1,0,180.222222222222,Adult,Standard
+190,54,male,3,own,rich,none/unknown,4591,24,business,2,1,191.291666666667,Senior,Low Risk
+191,34,male,1,free,moderate,moderate,3844,48,business,2,1,80.0833333333333,Adult,Standard
+192,36,male,2,own,little,moderate,3915,27,business,2,1,145,Adult,Standard
+193,29,male,2,rent,little,none/unknown,2108,6,radio/TV,1,0,351.333333333333,Young Adult,Standard
+194,21,male,2,rent,moderate,moderate,3031,45,radio/TV,2,1,67.3555555555556,Young Adult,Standard
+195,34,female,3,own,little,moderate,1501,9,education,2,1,166.777777777778,Adult,Standard
+196,28,female,2,own,little,none/unknown,1382,6,radio/TV,1,0,230.333333333333,Young Adult,Standard
+197,27,female,2,rent,moderate,moderate,951,12,furniture/equipment,2,1,79.25,Young Adult,Standard
+198,36,male,2,free,none/unknown,moderate,2760,24,car,1,0,115,Adult,Standard
+199,40,male,3,own,little,moderate,4297,18,furniture/equipment,2,1,238.722222222222,Adult,Standard
+200,52,male,2,own,quite rich,none/unknown,936,9,education,1,0,104,Senior,Low Risk
+201,27,male,1,own,little,little,1168,12,car,1,0,97.3333333333333,Young Adult,Standard
+202,26,male,2,own,little,none/unknown,5117,27,business,1,0,189.518518518519,Young Adult,Critical Risk
+203,21,male,2,rent,little,little,902,12,education,2,1,75.1666666666667,Young Adult,Standard
+204,38,male,1,own,little,none/unknown,1495,12,car,1,0,124.583333333333,Adult,Standard
+205,38,male,3,free,little,little,10623,30,car,1,0,354.1,Adult,Critical Risk
+206,43,male,2,own,little,none/unknown,1935,12,furniture/equipment,1,0,161.25,Adult,Standard
+207,26,male,2,own,little,moderate,1424,12,domestic appliances,1,0,118.666666666667,Young Adult,Standard
+208,21,male,1,own,little,little,6568,24,business,1,0,273.666666666667,Young Adult,Critical Risk
+209,55,male,2,own,rich,none/unknown,1413,12,car,1,0,117.75,Senior,Low Risk
+210,33,male,2,own,none/unknown,none/unknown,3074,9,radio/TV,1,0,341.555555555556,Adult,Standard
+211,45,female,1,own,none/unknown,none/unknown,3835,36,radio/TV,1,0,106.527777777778,Adult,Standard
+212,50,male,2,own,little,little,5293,27,business,2,1,196.037037037037,Senior,Critical Risk
+213,66,male,3,own,little,rich,1908,30,business,2,1,63.6,Elderly,Standard
+214,51,male,2,own,none/unknown,none/unknown,3342,36,radio/TV,1,0,92.8333333333333,Senior,Standard
+215,39,female,1,own,none/unknown,moderate,932,6,education,1,0,155.333333333333,Adult,Standard
+216,31,male,2,own,little,little,3104,18,business,1,0,172.444444444444,Adult,Standard
+217,23,male,2,own,little,rich,3913,36,radio/TV,1,0,108.694444444444,Young Adult,Standard
+218,24,male,1,rent,little,little,3021,24,furniture/equipment,1,0,125.875,Young Adult,Standard
+219,64,female,2,own,little,none/unknown,1364,10,car,1,0,136.4,Elderly,Standard
+220,26,male,1,own,little,moderate,625,12,radio/TV,1,0,52.0833333333333,Young Adult,Standard
+221,23,female,2,rent,none/unknown,little,1200,12,education,1,0,100,Young Adult,Standard
+222,30,male,2,own,little,none/unknown,707,12,radio/TV,1,0,58.9166666666667,Young Adult,Standard
+223,32,male,2,own,none/unknown,none/unknown,2978,24,business,1,0,124.083333333333,Adult,Standard
+224,30,male,2,own,little,none/unknown,4657,15,car,1,0,310.466666666667,Young Adult,Standard
+225,27,male,2,own,little,none/unknown,2613,36,repairs,1,0,72.5833333333333,Young Adult,Standard
+226,27,male,2,own,rich,moderate,10961,48,radio/TV,2,1,228.354166666667,Young Adult,Low Risk
+227,53,male,3,free,little,little,7865,12,furniture/equipment,2,1,655.416666666667,Senior,Critical Risk
+228,22,male,2,own,little,none/unknown,1478,9,radio/TV,2,1,164.222222222222,Young Adult,Standard
+229,22,male,2,free,little,little,3149,24,furniture/equipment,1,0,131.208333333333,Young Adult,Standard
+230,26,male,2,own,little,rich,4210,36,radio/TV,2,1,116.944444444444,Young Adult,Standard
+231,51,male,1,free,quite rich,none/unknown,2507,9,car,1,0,278.555555555556,Senior,Low Risk
+232,35,male,2,own,moderate,none/unknown,2141,12,radio/TV,1,0,178.416666666667,Adult,Standard
+233,25,male,1,own,little,moderate,866,18,radio/TV,1,0,48.1111111111111,Young Adult,Standard
+234,42,male,1,own,little,none/unknown,1544,4,radio/TV,1,0,386,Adult,Standard
+235,30,male,3,own,little,little,1823,24,radio/TV,2,1,75.9583333333333,Young Adult,Standard
+236,23,male,0,own,none/unknown,moderate,14555,6,car,2,1,2425.83333333333,Young Adult,Standard
+237,61,male,1,rent,moderate,moderate,2767,21,business,2,1,131.761904761905,Elderly,Standard
+238,35,female,2,own,little,none/unknown,1291,12,radio/TV,1,0,107.583333333333,Adult,Standard
+239,39,male,2,own,little,little,2522,30,radio/TV,1,0,84.0666666666667,Adult,Standard
+240,29,female,2,own,none/unknown,little,915,24,car,2,1,38.125,Young Adult,Standard
+241,51,male,2,own,little,none/unknown,1595,6,radio/TV,1,0,265.833333333333,Senior,Standard
+242,24,male,2,free,little,little,4605,48,car,2,1,95.9375,Young Adult,Standard
+243,27,female,2,own,little,none/unknown,1185,12,business,1,0,98.75,Young Adult,Standard
+244,35,female,1,own,quite rich,none/unknown,3447,12,education,1,0,287.25,Adult,Low Risk
+245,25,male,2,own,little,none/unknown,1258,24,business,1,0,52.4166666666667,Young Adult,Standard
+246,52,male,2,own,little,none/unknown,717,12,radio/TV,1,0,59.75,Senior,Standard
+247,35,male,2,rent,moderate,none/unknown,1204,6,car,1,0,200.666666666667,Adult,Standard
+248,26,male,2,own,little,rich,1925,24,furniture/equipment,1,0,80.2083333333333,Young Adult,Standard
+249,22,female,2,rent,little,none/unknown,433,18,radio/TV,2,1,24.0555555555556,Young Adult,Standard
+250,39,female,1,own,rich,little,666,6,car,1,0,111,Adult,Low Risk
+251,46,female,1,own,little,rich,2251,12,furniture/equipment,1,0,187.583333333333,Senior,Standard
+252,24,female,2,own,little,moderate,2150,30,car,2,1,71.6666666666667,Young Adult,Standard
+253,35,male,2,own,moderate,none/unknown,4151,24,furniture/equipment,1,0,172.958333333333,Adult,Standard
+254,24,male,2,own,none/unknown,moderate,2030,9,furniture/equipment,1,0,225.555555555556,Young Adult,Standard
+255,27,male,1,own,none/unknown,moderate,7418,60,radio/TV,1,0,123.633333333333,Young Adult,Standard
+256,35,male,1,own,little,none/unknown,2684,24,radio/TV,1,0,111.833333333333,Adult,Standard
+257,29,male,2,free,little,little,2149,12,radio/TV,2,1,179.083333333333,Young Adult,Standard
+258,23,female,2,own,moderate,none/unknown,3812,15,car,1,0,254.133333333333,Young Adult,Standard
+259,57,female,1,own,moderate,none/unknown,1154,11,radio/TV,1,0,104.909090909091,Senior,Standard
+260,27,male,2,own,little,little,1657,12,furniture/equipment,1,0,138.083333333333,Young Adult,Standard
+261,55,female,2,own,little,little,1603,24,radio/TV,1,0,66.7916666666667,Senior,Standard
+262,36,male,3,free,little,little,5302,18,car,1,0,294.555555555556,Adult,Critical Risk
+263,57,female,1,free,little,none/unknown,2748,12,education,1,0,229,Senior,Standard
+264,32,male,1,own,little,none/unknown,1231,10,car,1,0,123.1,Adult,Standard
+265,37,male,2,own,little,moderate,802,15,radio/TV,2,1,53.4666666666667,Adult,Standard
+266,36,male,2,own,none/unknown,none/unknown,6304,36,business,1,0,175.111111111111,Adult,Standard
+267,38,female,2,own,little,none/unknown,1533,24,radio/TV,1,0,63.875,Adult,Standard
+268,45,male,3,own,little,little,8978,14,car,2,1,641.285714285714,Adult,Critical Risk
+269,25,male,2,own,none/unknown,none/unknown,999,24,radio/TV,1,0,41.625,Young Adult,Standard
+270,32,male,2,own,none/unknown,none/unknown,2662,18,car,1,0,147.888888888889,Adult,Standard
+271,37,female,2,rent,quite rich,none/unknown,1402,12,furniture/equipment,1,0,116.833333333333,Adult,Low Risk
+272,36,male,3,free,none/unknown,moderate,12169,48,car,1,0,253.520833333333,Adult,Standard
+273,28,male,2,own,little,moderate,3060,48,radio/TV,2,1,63.75,Young Adult,Standard
+274,34,male,1,own,little,little,11998,30,repairs,2,1,399.933333333333,Adult,Critical Risk
+275,32,male,2,own,little,none/unknown,2697,9,radio/TV,1,0,299.666666666667,Adult,Standard
+276,26,female,2,own,little,none/unknown,2404,18,radio/TV,1,0,133.555555555556,Young Adult,Standard
+277,49,male,1,own,none/unknown,little,1262,12,furniture/equipment,1,0,105.166666666667,Senior,Standard
+278,32,female,2,own,little,none/unknown,4611,6,furniture/equipment,2,1,768.5,Adult,Standard
+279,29,male,3,rent,moderate,none/unknown,1901,24,radio/TV,1,0,79.2083333333333,Young Adult,Standard
+280,23,male,2,rent,rich,none/unknown,3368,15,car,1,0,224.533333333333,Young Adult,Low Risk
+281,50,male,2,own,little,none/unknown,1574,12,furniture/equipment,1,0,131.166666666667,Senior,Standard
+282,49,male,1,own,none/unknown,rich,1445,18,radio/TV,1,0,80.2777777777778,Senior,Standard
+283,63,male,2,own,none/unknown,none/unknown,1520,15,furniture/equipment,1,0,101.333333333333,Elderly,Standard
+284,37,male,2,own,moderate,moderate,3878,24,car,1,0,161.583333333333,Adult,Standard
+285,35,female,1,own,little,little,10722,47,car,1,0,228.127659574468,Adult,Critical Risk
+286,26,male,2,own,little,little,4788,48,car,1,0,99.75,Young Adult,Standard
+287,31,male,3,free,moderate,moderate,7582,48,vacation/others,1,0,157.958333333333,Adult,Standard
+288,49,female,2,own,little,moderate,1092,12,radio/TV,1,0,91,Senior,Standard
+289,48,male,2,own,little,little,1024,24,radio/TV,2,1,42.6666666666667,Senior,Standard
+290,26,male,2,own,little,none/unknown,1076,12,business,1,0,89.6666666666667,Young Adult,Standard
+291,28,male,3,rent,little,moderate,9398,36,car,2,1,261.055555555556,Young Adult,Critical Risk
+292,44,female,3,free,little,little,6419,24,car,1,0,267.458333333333,Adult,Critical Risk
+293,56,male,2,free,little,rich,4796,42,car,1,0,114.190476190476,Senior,Standard
+294,46,male,3,own,none/unknown,none/unknown,7629,48,business,1,0,158.9375,Senior,Standard
+295,26,female,2,own,little,moderate,9960,48,furniture/equipment,2,1,207.5,Young Adult,Critical Risk
+296,20,female,2,rent,none/unknown,none/unknown,4675,12,car,1,0,389.583333333333,Young Adult,Standard
+297,45,male,1,own,none/unknown,none/unknown,1287,10,car,1,0,128.7,Adult,Standard
+298,43,male,2,own,little,none/unknown,2515,18,furniture/equipment,1,0,139.722222222222,Adult,Standard
+299,32,male,2,own,rich,moderate,2745,21,furniture/equipment,1,0,130.714285714286,Adult,Low Risk
+300,54,female,0,own,little,none/unknown,672,6,car,1,0,112,Senior,Standard
+301,42,female,2,own,little,moderate,3804,36,radio/TV,2,1,105.666666666667,Adult,Standard
+302,37,male,1,own,none/unknown,rich,1344,24,car,2,1,56,Adult,Standard
+303,49,male,2,own,little,little,1038,10,car,1,0,103.8,Senior,Standard
+304,44,male,2,free,quite rich,none/unknown,10127,48,car,2,1,210.979166666667,Adult,Low Risk
+305,33,male,2,own,rich,none/unknown,1543,6,furniture/equipment,1,0,257.166666666667,Adult,Low Risk
+306,24,female,1,rent,none/unknown,none/unknown,4811,30,car,1,0,160.366666666667,Young Adult,Standard
+307,33,male,1,own,moderate,little,727,12,radio/TV,2,1,60.5833333333333,Adult,Standard
+308,24,female,2,own,little,moderate,1237,8,furniture/equipment,2,1,154.625,Young Adult,Standard
+309,22,male,1,rent,little,moderate,276,9,car,1,0,30.6666666666667,Young Adult,Standard
+310,40,male,0,free,none/unknown,moderate,5381,48,vacation/others,1,0,112.104166666667,Adult,Standard
+311,25,male,2,own,moderate,none/unknown,5511,24,furniture/equipment,1,0,229.625,Young Adult,Standard
+312,26,female,2,own,little,rich,3749,24,furniture/equipment,1,0,156.208333333333,Young Adult,Standard
+313,25,male,1,own,little,moderate,685,12,car,2,1,57.0833333333333,Young Adult,Standard
+314,29,male,1,own,none/unknown,rich,1494,4,car,1,0,373.5,Young Adult,Standard
+315,31,male,2,own,little,little,2746,36,furniture/equipment,2,1,76.2777777777778,Adult,Standard
+316,38,male,1,own,little,little,708,12,furniture/equipment,1,0,59,Adult,Standard
+317,48,female,1,own,none/unknown,moderate,4351,24,furniture/equipment,1,0,181.291666666667,Senior,Standard
+318,32,male,2,own,little,none/unknown,701,12,education,1,0,58.4166666666667,Adult,Standard
+319,27,female,1,own,little,little,3643,15,furniture/equipment,1,0,242.866666666667,Young Adult,Standard
+320,28,male,3,own,little,moderate,4249,30,car,2,1,141.633333333333,Young Adult,Standard
+321,32,male,2,own,little,little,1938,24,radio/TV,2,1,80.75,Adult,Standard
+322,34,male,3,free,little,little,2910,24,car,1,0,121.25,Adult,Standard
+323,28,male,2,own,rich,little,2659,18,furniture/equipment,1,0,147.722222222222,Young Adult,Low Risk
+324,36,female,2,own,little,none/unknown,1028,18,car,1,0,57.1111111111111,Adult,Standard
+325,39,male,1,own,little,little,3398,8,car,1,0,424.75,Adult,Standard
+326,49,male,2,rent,none/unknown,none/unknown,5801,12,furniture/equipment,1,0,483.416666666667,Senior,Standard
+327,34,female,2,own,rich,none/unknown,1525,24,car,1,0,63.5416666666667,Adult,Low Risk
+328,31,male,2,own,little,rich,4473,36,radio/TV,1,0,124.25,Adult,Standard
+329,28,male,2,own,little,moderate,1068,6,radio/TV,1,0,178,Young Adult,Standard
+330,75,male,3,free,little,little,6615,24,car,1,0,275.625,Elderly,Critical Risk
+331,30,female,2,own,moderate,none/unknown,1864,18,education,2,1,103.555555555556,Young Adult,Standard
+332,24,female,3,own,moderate,moderate,7408,60,car,2,1,123.466666666667,Young Adult,Standard
+333,24,female,1,rent,moderate,none/unknown,11590,48,car,2,1,241.458333333333,Young Adult,Standard
+334,23,male,2,rent,little,little,4110,24,furniture/equipment,2,1,171.25,Young Adult,Standard
+335,44,male,3,rent,little,little,3384,6,furniture/equipment,2,1,564,Adult,Standard
+336,23,female,1,own,little,moderate,2101,13,radio/TV,1,0,161.615384615385,Young Adult,Standard
+337,24,female,2,rent,none/unknown,little,1275,15,domestic appliances,2,1,85,Young Adult,Standard
+338,28,male,2,own,little,little,4169,24,furniture/equipment,1,0,173.708333333333,Young Adult,Standard
+339,31,male,1,own,little,moderate,1521,10,furniture/equipment,1,0,152.1,Adult,Standard
+340,24,female,2,free,little,moderate,5743,24,education,1,0,239.291666666667,Young Adult,Critical Risk
+341,26,female,1,rent,little,little,3599,21,furniture/equipment,1,0,171.380952380952,Young Adult,Standard
+342,25,male,2,rent,quite rich,moderate,3213,18,radio/TV,1,0,178.5,Young Adult,Low Risk
+343,33,male,3,own,little,moderate,4439,18,business,1,0,246.611111111111,Adult,Standard
+344,37,male,1,own,little,rich,3949,10,car,1,0,394.9,Adult,Standard
+345,43,female,1,own,little,none/unknown,1459,15,radio/TV,1,0,97.2666666666667,Adult,Standard
+346,23,male,2,own,little,moderate,882,13,radio/TV,1,0,67.8461538461538,Young Adult,Standard
+347,23,female,0,rent,quite rich,moderate,3758,24,radio/TV,1,0,156.583333333333,Young Adult,Low Risk
+348,34,male,1,own,moderate,none/unknown,1743,6,business,1,0,290.5,Adult,Standard
+349,32,male,2,free,rich,moderate,1136,9,education,2,1,126.222222222222,Adult,Low Risk
+350,23,female,2,rent,little,none/unknown,1236,9,domestic appliances,1,0,137.333333333333,Young Adult,Standard
+351,29,female,2,own,little,moderate,959,9,furniture/equipment,2,1,106.555555555556,Young Adult,Standard
+352,38,male,3,own,none/unknown,none/unknown,3229,18,car,1,0,179.388888888889,Adult,Standard
+353,28,male,2,rent,little,little,6199,12,radio/TV,2,1,516.583333333333,Young Adult,Critical Risk
+354,46,male,2,free,quite rich,none/unknown,727,10,education,1,0,72.7,Senior,Low Risk
+355,23,male,1,own,little,moderate,1246,24,car,2,1,51.9166666666667,Young Adult,Standard
+356,49,male,2,own,none/unknown,none/unknown,2331,12,radio/TV,1,0,194.25,Senior,Standard
+357,26,male,3,own,little,none/unknown,4463,36,radio/TV,2,1,123.972222222222,Young Adult,Standard
+358,28,male,2,own,little,none/unknown,776,12,radio/TV,1,0,64.6666666666667,Young Adult,Standard
+359,23,female,2,rent,little,little,2406,30,furniture/equipment,2,1,80.2,Young Adult,Standard
+360,61,male,2,free,none/unknown,moderate,1239,18,education,1,0,68.8333333333333,Elderly,Standard
+361,37,male,3,own,none/unknown,rich,3399,12,radio/TV,1,0,283.25,Adult,Standard
+362,36,female,2,own,little,rich,2247,12,car,1,0,187.25,Adult,Standard
+363,21,male,2,rent,little,none/unknown,1766,6,furniture/equipment,1,0,294.333333333333,Young Adult,Standard
+364,25,male,0,own,little,little,2473,18,furniture/equipment,2,1,137.388888888889,Young Adult,Standard
+365,36,male,2,own,little,none/unknown,1542,12,business,1,0,128.5,Adult,Standard
+366,27,male,2,own,little,none/unknown,3850,18,car,1,0,213.888888888889,Young Adult,Standard
+367,22,female,2,rent,little,little,3650,18,furniture/equipment,1,0,202.777777777778,Young Adult,Standard
+368,42,male,2,own,little,little,3446,36,furniture/equipment,2,1,95.7222222222222,Adult,Standard
+369,40,female,2,rent,little,moderate,3001,18,furniture/equipment,1,0,166.722222222222,Adult,Standard
+370,36,male,2,own,none/unknown,none/unknown,3079,36,car,1,0,85.5277777777778,Adult,Standard
+371,33,male,2,own,little,none/unknown,6070,18,radio/TV,1,0,337.222222222222,Adult,Critical Risk
+372,23,female,2,rent,little,none/unknown,2146,10,furniture/equipment,1,0,214.6,Young Adult,Standard
+373,63,male,3,free,none/unknown,none/unknown,13756,60,car,1,0,229.266666666667,Elderly,Standard
+374,60,female,3,free,moderate,moderate,14782,60,vacation/others,2,1,246.366666666667,Senior,Standard
+375,37,female,2,rent,little,little,7685,48,business,2,1,160.104166666667,Adult,Critical Risk
+376,34,male,2,own,little,none/unknown,2320,18,radio/TV,1,0,128.888888888889,Adult,Standard
+377,36,male,2,free,none/unknown,none/unknown,846,7,radio/TV,1,0,120.857142857143,Adult,Standard
+378,57,male,3,free,little,moderate,14318,36,car,2,1,397.722222222222,Senior,Critical Risk
+379,52,female,1,own,moderate,none/unknown,362,6,car,1,0,60.3333333333333,Senior,Standard
+380,39,male,2,own,none/unknown,little,2212,20,furniture/equipment,1,0,110.6,Adult,Standard
+381,38,female,3,free,little,moderate,12976,18,car,2,1,720.888888888889,Adult,Critical Risk
+382,25,female,2,rent,none/unknown,none/unknown,1283,22,car,1,0,58.3181818181818,Young Adult,Standard
+383,26,male,2,own,little,rich,1330,12,car,1,0,110.833333333333,Young Adult,Standard
+384,26,male,1,own,moderate,none/unknown,4272,30,business,1,0,142.4,Young Adult,Standard
+385,25,female,2,own,little,none/unknown,2238,18,radio/TV,1,0,124.333333333333,Young Adult,Standard
+386,21,female,2,rent,none/unknown,none/unknown,1126,18,radio/TV,1,0,62.5555555555556,Young Adult,Standard
+387,40,male,3,own,little,moderate,7374,18,furniture/equipment,1,0,409.666666666667,Adult,Critical Risk
+388,27,male,2,own,quite rich,moderate,2326,15,business,1,0,155.066666666667,Young Adult,Low Risk
+389,27,female,2,own,little,none/unknown,1449,9,business,1,0,161,Young Adult,Standard
+390,30,male,3,own,little,none/unknown,1820,18,car,1,0,101.111111111111,Young Adult,Standard
+391,19,female,1,rent,rich,moderate,983,12,furniture/equipment,1,0,81.9166666666667,Young Adult,Low Risk
+392,39,male,3,free,little,little,3249,36,car,1,0,90.25,Adult,Standard
+393,31,female,2,own,little,little,1957,6,radio/TV,1,0,326.166666666667,Adult,Standard
+394,31,male,3,own,little,none/unknown,2406,9,furniture/equipment,1,0,267.333333333333,Adult,Standard
+395,32,male,2,rent,moderate,moderate,11760,39,education,1,0,301.538461538462,Adult,Standard
+396,55,female,3,free,little,little,2578,12,furniture/equipment,1,0,214.833333333333,Senior,Standard
+397,46,male,2,own,little,little,2348,36,furniture/equipment,1,0,65.2222222222222,Senior,Standard
+398,46,male,2,rent,little,moderate,1223,12,car,2,1,101.916666666667,Senior,Standard
+399,43,female,1,own,rich,none/unknown,1516,24,radio/TV,1,0,63.1666666666667,Adult,Low Risk
+400,39,male,2,own,little,none/unknown,1473,18,radio/TV,1,0,81.8333333333333,Adult,Standard
+401,28,male,2,own,none/unknown,moderate,1887,18,business,1,0,104.833333333333,Young Adult,Standard
+402,27,male,2,own,little,none/unknown,8648,24,business,2,1,360.333333333333,Young Adult,Critical Risk
+403,27,male,1,own,little,none/unknown,802,14,car,1,0,57.2857142857143,Young Adult,Standard
+404,43,male,2,own,none/unknown,moderate,2899,18,car,1,0,161.055555555556,Adult,Standard
+405,22,male,2,own,little,moderate,2039,24,radio/TV,2,1,84.9583333333333,Young Adult,Standard
+406,43,male,2,own,none/unknown,none/unknown,2197,24,car,1,0,91.5416666666667,Adult,Standard
+407,27,male,2,own,little,little,1053,15,radio/TV,1,0,70.2,Young Adult,Standard
+408,26,male,3,own,quite rich,none/unknown,3235,24,radio/TV,1,0,134.791666666667,Young Adult,Low Risk
+409,28,male,2,own,quite rich,rich,939,12,car,2,1,78.25,Young Adult,Low Risk
+410,20,female,2,own,little,moderate,1967,24,radio/TV,1,0,81.9583333333333,Young Adult,Standard
+411,35,male,3,own,little,none/unknown,7253,33,car,1,0,219.787878787879,Adult,Critical Risk
+412,42,male,3,own,little,none/unknown,2292,12,business,2,1,191,Adult,Standard
+413,40,male,1,rent,quite rich,none/unknown,1597,10,car,1,0,159.7,Adult,Low Risk
+414,35,female,2,own,none/unknown,little,1381,24,car,2,1,57.5416666666667,Adult,Standard
+415,35,male,2,own,little,none/unknown,5842,36,car,1,0,162.277777777778,Adult,Critical Risk
+416,33,male,1,own,little,little,2579,12,car,2,1,214.916666666667,Adult,Standard
+417,23,female,2,rent,none/unknown,little,8471,18,education,1,0,470.611111111111,Young Adult,Standard
+418,31,female,3,own,quite rich,none/unknown,2782,21,car,1,0,132.47619047619,Adult,Low Risk
+419,33,female,2,own,none/unknown,moderate,1042,18,car,2,1,57.8888888888889,Adult,Standard
+420,20,female,2,rent,rich,none/unknown,3186,15,car,1,0,212.4,Young Adult,Low Risk
+421,30,male,2,own,none/unknown,moderate,2028,12,car,1,0,169,Young Adult,Standard
+422,47,male,1,own,little,moderate,958,12,car,1,0,79.8333333333333,Senior,Standard
+423,34,male,3,own,moderate,none/unknown,1591,21,furniture/equipment,1,0,75.7619047619048,Adult,Standard
+424,25,female,2,own,none/unknown,moderate,2762,12,furniture/equipment,2,1,230.166666666667,Young Adult,Standard
+425,21,male,2,rent,little,moderate,2779,18,car,1,0,154.388888888889,Young Adult,Standard
+426,29,male,2,own,little,none/unknown,2743,28,radio/TV,1,0,97.9642857142857,Young Adult,Standard
+427,46,male,2,own,rich,none/unknown,1149,18,radio/TV,1,0,63.8333333333333,Senior,Low Risk
+428,20,male,2,own,little,none/unknown,1313,9,furniture/equipment,1,0,145.888888888889,Young Adult,Standard
+429,55,female,0,free,little,little,1190,18,repairs,2,1,66.1111111111111,Senior,Standard
+430,74,male,1,own,little,none/unknown,3448,5,business,1,0,689.6,Elderly,Standard
+431,29,male,3,own,little,moderate,11328,24,vacation/others,2,1,472,Young Adult,Critical Risk
+432,36,male,3,free,little,little,1872,6,furniture/equipment,1,0,312,Adult,Standard
+433,33,male,2,own,little,none/unknown,2058,24,repairs,1,0,85.75,Adult,Standard
+434,25,male,2,own,little,little,2136,9,furniture/equipment,1,0,237.333333333333,Young Adult,Standard
+435,25,male,2,own,none/unknown,moderate,1484,12,radio/TV,2,1,123.666666666667,Young Adult,Standard
+436,23,male,1,rent,quite rich,none/unknown,660,6,repairs,1,0,110,Young Adult,Low Risk
+437,37,female,2,own,rich,none/unknown,1287,24,car,1,0,53.625,Adult,Low Risk
+438,65,male,0,own,little,little,3394,42,repairs,1,0,80.8095238095238,Elderly,Standard
+439,26,female,0,own,little,rich,609,12,business,2,1,50.75,Young Adult,Standard
+440,39,male,3,own,little,none/unknown,1884,12,car,1,0,157,Adult,Standard
+441,30,female,2,own,little,little,1620,12,furniture/equipment,1,0,135,Young Adult,Standard
+442,29,male,2,own,little,moderate,2629,20,vacation/others,1,0,131.45,Young Adult,Standard
+443,41,male,1,own,little,none/unknown,719,12,education,2,1,59.9166666666667,Adult,Standard
+444,30,female,3,own,little,moderate,5096,48,furniture/equipment,2,1,106.166666666667,Young Adult,Critical Risk
+445,41,female,1,rent,none/unknown,none/unknown,1244,9,education,1,0,138.222222222222,Adult,Standard
+446,34,female,2,own,little,little,1842,36,car,2,1,51.1666666666667,Adult,Standard
+447,35,male,2,own,little,moderate,2576,7,radio/TV,1,0,368,Adult,Standard
+448,55,female,3,own,none/unknown,rich,1424,12,furniture/equipment,1,0,118.666666666667,Senior,Standard
+449,61,male,2,own,rich,moderate,1512,15,repairs,2,1,100.8,Elderly,Low Risk
+450,30,male,3,own,none/unknown,none/unknown,11054,36,car,1,0,307.055555555556,Young Adult,Standard
+451,29,female,2,own,little,none/unknown,518,6,radio/TV,1,0,86.3333333333333,Young Adult,Standard
+452,34,male,2,own,little,none/unknown,2759,12,furniture/equipment,1,0,229.916666666667,Adult,Standard
+453,35,male,3,own,little,none/unknown,2670,24,car,1,0,111.25,Adult,Standard
+454,31,male,2,own,little,little,4817,24,car,2,1,200.708333333333,Adult,Standard
+455,29,female,3,own,little,none/unknown,2679,24,car,1,0,111.625,Young Adult,Standard
+456,36,male,2,rent,little,little,3905,11,car,1,0,355,Adult,Standard
+457,35,male,2,free,little,little,3386,12,car,2,1,282.166666666667,Adult,Standard
+458,27,female,2,own,little,little,343,6,domestic appliances,1,0,57.1666666666667,Young Adult,Standard
+459,32,male,2,own,little,none/unknown,4594,18,radio/TV,1,0,255.222222222222,Adult,Standard
+460,37,male,2,own,little,little,3620,36,furniture/equipment,1,0,100.555555555556,Adult,Standard
+461,36,male,2,own,little,little,1721,15,car,1,0,114.733333333333,Adult,Standard
+462,34,female,3,rent,little,moderate,3017,12,furniture/equipment,1,0,251.416666666667,Adult,Standard
+463,38,male,2,own,none/unknown,moderate,754,12,education,1,0,62.8333333333333,Adult,Standard
+464,34,male,2,own,little,none/unknown,1950,18,business,1,0,108.333333333333,Adult,Standard
+465,63,male,2,own,little,little,2924,24,car,1,0,121.833333333333,Elderly,Standard
+466,29,female,1,rent,little,little,1659,24,radio/TV,2,1,69.125,Young Adult,Standard
+467,32,male,2,own,none/unknown,none/unknown,7238,48,radio/TV,1,0,150.791666666667,Adult,Standard
+468,26,female,2,own,little,none/unknown,2764,33,business,1,0,83.7575757575758,Young Adult,Standard
+469,35,male,1,own,little,none/unknown,4679,24,car,1,0,194.958333333333,Adult,Standard
+470,22,male,2,rent,moderate,moderate,3092,24,radio/TV,2,1,128.833333333333,Young Adult,Standard
+471,23,female,2,own,little,little,448,6,education,2,1,74.6666666666667,Young Adult,Standard
+472,28,male,1,own,little,little,654,9,car,2,1,72.6666666666667,Young Adult,Standard
+473,36,male,3,own,none/unknown,none/unknown,1238,6,education,1,0,206.333333333333,Adult,Standard
+474,33,male,2,own,little,moderate,1245,18,radio/TV,2,1,69.1666666666667,Adult,Standard
+475,26,female,2,rent,little,little,3114,18,furniture/equipment,2,1,173,Young Adult,Standard
+476,24,male,2,own,quite rich,none/unknown,2569,39,car,1,0,65.8717948717949,Young Adult,Low Risk
+477,25,male,2,own,little,rich,5152,24,radio/TV,1,0,214.666666666667,Young Adult,Critical Risk
+478,39,male,1,own,moderate,moderate,1037,12,business,1,0,86.4166666666667,Adult,Standard
+479,44,male,2,own,little,little,1478,15,furniture/equipment,1,0,98.5333333333333,Adult,Standard
+480,23,female,1,own,little,moderate,3573,12,radio/TV,1,0,297.75,Young Adult,Standard
+481,26,male,2,own,little,moderate,1201,24,car,1,0,50.0416666666667,Young Adult,Standard
+482,57,female,2,rent,rich,little,3622,30,furniture/equipment,1,0,120.733333333333,Senior,Low Risk
+483,30,female,2,own,rich,none/unknown,960,15,furniture/equipment,1,0,64,Young Adult,Low Risk
+484,44,male,2,own,quite rich,none/unknown,1163,12,car,1,0,96.9166666666667,Adult,Low Risk
+485,47,male,3,own,little,moderate,1209,6,car,2,1,201.5,Senior,Standard
+486,52,male,2,own,little,none/unknown,3077,12,radio/TV,1,0,256.416666666667,Senior,Standard
+487,62,female,2,free,little,none/unknown,3757,24,car,1,0,156.541666666667,Elderly,Standard
+488,35,male,1,rent,moderate,none/unknown,1418,10,car,1,0,141.8,Adult,Standard
+489,26,male,2,rent,little,none/unknown,3518,6,car,1,0,586.333333333333,Young Adult,Standard
+490,26,male,2,own,little,none/unknown,1934,12,radio/TV,1,0,161.166666666667,Young Adult,Standard
+491,42,female,3,free,little,moderate,8318,27,business,2,1,308.074074074074,Adult,Critical Risk
+492,27,female,2,own,moderate,none/unknown,1237,6,radio/TV,1,0,206.166666666667,Young Adult,Standard
+493,38,male,2,own,none/unknown,moderate,368,6,radio/TV,1,0,61.3333333333333,Adult,Standard
+494,39,male,1,rent,little,little,2122,12,car,1,0,176.833333333333,Adult,Standard
+495,20,male,2,own,none/unknown,little,2996,24,furniture/equipment,2,1,124.833333333333,Young Adult,Standard
+496,29,male,3,rent,moderate,moderate,9034,36,furniture/equipment,2,1,250.944444444444,Young Adult,Standard
+497,40,male,2,own,little,none/unknown,1585,24,furniture/equipment,1,0,66.0416666666667,Adult,Standard
+498,32,male,1,own,little,moderate,1301,18,radio/TV,1,0,72.2777777777778,Adult,Standard
+499,28,male,2,own,moderate,rich,1323,6,car,1,0,220.5,Young Adult,Standard
+500,27,female,2,own,little,little,3123,24,car,2,1,130.125,Young Adult,Standard
+501,42,male,2,free,little,little,5493,36,car,1,0,152.583333333333,Adult,Critical Risk
+502,49,male,2,own,moderate,rich,1126,9,radio/TV,1,0,125.111111111111,Senior,Standard
+503,38,male,2,own,moderate,moderate,1216,24,radio/TV,2,1,50.6666666666667,Adult,Standard
+504,24,female,2,rent,little,little,1207,24,car,2,1,50.2916666666667,Young Adult,Standard
+505,27,male,1,own,none/unknown,none/unknown,1309,10,car,2,1,130.9,Young Adult,Standard
+506,36,male,2,own,quite rich,rich,2360,15,car,1,0,157.333333333333,Adult,Low Risk
+507,34,male,3,own,moderate,moderate,6850,15,car,2,1,456.666666666667,Adult,Standard
+508,28,male,2,own,little,none/unknown,1413,24,radio/TV,1,0,58.875,Young Adult,Standard
+509,45,male,3,own,moderate,none/unknown,8588,39,car,1,0,220.205128205128,Adult,Standard
+510,26,male,2,own,little,little,759,12,car,2,1,63.25,Young Adult,Standard
+511,32,male,3,free,little,none/unknown,4686,36,car,1,0,130.166666666667,Adult,Standard
+512,26,male,2,rent,little,rich,2687,15,business,1,0,179.133333333333,Young Adult,Standard
+513,20,male,2,rent,little,moderate,585,12,radio/TV,1,0,48.75,Young Adult,Standard
+514,54,male,2,own,none/unknown,none/unknown,2255,24,car,1,0,93.9583333333333,Senior,Standard
+515,37,female,2,own,little,little,609,6,car,1,0,101.5,Adult,Standard
+516,40,male,1,own,little,little,1361,6,car,1,0,226.833333333333,Adult,Standard
+517,23,female,2,rent,little,none/unknown,7127,36,furniture/equipment,2,1,197.972222222222,Young Adult,Critical Risk
+518,43,male,2,own,moderate,little,1203,6,car,1,0,200.5,Adult,Standard
+519,36,male,2,free,none/unknown,none/unknown,700,6,radio/TV,1,0,116.666666666667,Adult,Standard
+520,44,male,2,free,little,none/unknown,5507,24,repairs,1,0,229.458333333333,Adult,Critical Risk
+521,24,female,2,own,little,little,3190,18,radio/TV,2,1,177.222222222222,Young Adult,Standard
+522,53,male,2,free,little,little,7119,48,furniture/equipment,2,1,148.3125,Senior,Critical Risk
+523,23,female,2,own,moderate,none/unknown,3488,24,car,1,0,145.333333333333,Young Adult,Standard
+524,26,female,1,own,little,moderate,1113,18,radio/TV,1,0,61.8333333333333,Young Adult,Standard
+525,30,male,2,own,little,moderate,7966,26,car,1,0,306.384615384615,Young Adult,Critical Risk
+526,31,female,2,own,moderate,none/unknown,1532,15,education,1,0,102.133333333333,Adult,Standard
+527,42,male,1,own,little,none/unknown,1503,4,radio/TV,1,0,375.75,Adult,Standard
+528,31,male,2,rent,little,little,2302,36,radio/TV,2,1,63.9444444444444,Adult,Standard
+529,41,male,1,own,little,little,662,6,car,1,0,110.333333333333,Adult,Standard
+530,32,male,2,own,little,moderate,2273,36,education,1,0,63.1388888888889,Adult,Standard
+531,28,female,2,rent,moderate,moderate,2631,15,car,2,1,175.4,Young Adult,Standard
+532,41,male,2,rent,little,none/unknown,1503,12,car,1,0,125.25,Adult,Standard
+533,26,male,2,own,moderate,none/unknown,1311,24,radio/TV,1,0,54.625,Young Adult,Standard
+534,25,male,2,own,none/unknown,none/unknown,3105,24,radio/TV,1,0,129.375,Young Adult,Standard
+535,33,male,2,rent,little,rich,2319,21,education,2,1,110.428571428571,Adult,Standard
+536,75,female,3,own,none/unknown,little,1374,6,car,1,0,229,Elderly,Standard
+537,37,female,2,own,little,moderate,3612,18,furniture/equipment,1,0,200.666666666667,Adult,Standard
+538,42,male,3,free,little,little,7763,48,car,2,1,161.729166666667,Adult,Critical Risk
+539,45,female,1,own,little,rich,3049,18,furniture/equipment,1,0,169.388888888889,Adult,Standard
+540,23,male,2,rent,little,moderate,1534,12,radio/TV,2,1,127.833333333333,Young Adult,Standard
+541,60,male,2,free,little,none/unknown,2032,24,car,1,0,84.6666666666667,Senior,Standard
+542,31,male,2,own,none/unknown,little,6350,30,furniture/equipment,2,1,211.666666666667,Adult,Standard
+543,34,male,1,own,little,rich,2864,18,furniture/equipment,2,1,159.111111111111,Adult,Standard
+544,61,male,1,own,little,none/unknown,1255,12,car,1,0,104.583333333333,Elderly,Standard
+545,43,male,2,free,little,little,1333,24,car,2,1,55.5416666666667,Adult,Standard
+546,37,female,2,own,little,none/unknown,2022,24,car,1,0,84.25,Adult,Standard
+547,32,male,2,own,little,none/unknown,1552,24,radio/TV,1,0,64.6666666666667,Adult,Standard
+548,24,female,1,own,little,little,626,12,radio/TV,2,1,52.1666666666667,Young Adult,Standard
+549,35,male,2,free,none/unknown,none/unknown,8858,48,car,1,0,184.541666666667,Adult,Standard
+550,23,female,2,own,none/unknown,none/unknown,996,12,repairs,1,0,83,Young Adult,Standard
+551,45,male,1,own,quite rich,none/unknown,1750,6,radio/TV,1,0,291.666666666667,Adult,Low Risk
+552,34,male,2,own,little,little,6999,48,radio/TV,2,1,145.8125,Adult,Critical Risk
+553,27,male,2,own,moderate,moderate,1995,12,car,1,0,166.25,Young Adult,Standard
+554,67,female,3,own,little,moderate,1199,9,education,1,0,133.222222222222,Elderly,Standard
+555,22,male,2,own,little,moderate,1331,12,radio/TV,2,1,110.916666666667,Young Adult,Standard
+556,28,female,2,own,moderate,moderate,2278,18,car,2,1,126.555555555556,Young Adult,Standard
+557,29,female,2,own,none/unknown,none/unknown,5003,21,car,2,1,238.238095238095,Young Adult,Standard
+558,27,male,2,own,little,little,3552,24,furniture/equipment,2,1,148,Young Adult,Standard
+559,31,male,1,own,little,moderate,1928,18,furniture/equipment,2,1,107.111111111111,Adult,Standard
+560,49,male,2,free,none/unknown,little,2964,24,car,1,0,123.5,Senior,Standard
+561,24,male,1,rent,little,little,1546,24,radio/TV,2,1,64.4166666666667,Young Adult,Standard
+562,29,female,2,own,little,rich,683,6,radio/TV,1,0,113.833333333333,Young Adult,Standard
+563,37,male,2,free,none/unknown,moderate,12389,36,car,2,1,344.138888888889,Adult,Standard
+564,37,male,3,own,none/unknown,moderate,4712,24,business,1,0,196.333333333333,Adult,Standard
+565,23,female,2,rent,moderate,moderate,1553,24,radio/TV,1,0,64.7083333333333,Young Adult,Standard
+566,36,male,2,own,little,little,1372,12,car,2,1,114.333333333333,Adult,Standard
+567,34,male,2,own,rich,none/unknown,2578,24,radio/TV,1,0,107.416666666667,Adult,Low Risk
+568,41,male,2,own,none/unknown,moderate,3979,48,radio/TV,1,0,82.8958333333333,Adult,Standard
+569,31,female,2,own,little,little,6758,48,radio/TV,2,1,140.791666666667,Adult,Critical Risk
+570,23,female,1,rent,little,little,3234,24,furniture/equipment,2,1,134.75,Young Adult,Standard
+571,38,male,2,own,little,none/unknown,5954,30,radio/TV,1,0,198.466666666667,Adult,Critical Risk
+572,26,female,3,rent,none/unknown,none/unknown,5433,24,car,1,0,226.375,Young Adult,Standard
+573,22,female,1,own,little,little,806,15,business,1,0,53.7333333333333,Young Adult,Standard
+574,27,male,1,own,little,moderate,1082,9,radio/TV,1,0,120.222222222222,Young Adult,Standard
+575,24,female,2,own,little,none/unknown,2788,15,furniture/equipment,1,0,185.866666666667,Young Adult,Standard
+576,27,female,2,own,little,moderate,2930,12,radio/TV,1,0,244.166666666667,Young Adult,Standard
+577,33,female,2,own,none/unknown,none/unknown,1927,24,education,1,0,80.2916666666667,Adult,Standard
+578,27,male,2,own,little,moderate,2820,36,car,2,1,78.3333333333333,Young Adult,Standard
+579,27,male,1,own,little,none/unknown,937,24,education,1,0,39.0416666666667,Young Adult,Standard
+580,30,male,2,own,little,moderate,1056,18,car,2,1,58.6666666666667,Young Adult,Standard
+581,49,male,1,own,little,moderate,3124,12,car,1,0,260.333333333333,Senior,Standard
+582,26,female,2,rent,little,none/unknown,1388,9,furniture/equipment,1,0,154.222222222222,Young Adult,Standard
+583,33,male,1,rent,little,moderate,2384,36,repairs,2,1,66.2222222222222,Adult,Standard
+584,52,female,3,free,none/unknown,none/unknown,2133,12,car,1,0,177.75,Senior,Standard
+585,20,female,2,rent,little,little,2039,18,furniture/equipment,2,1,113.277777777778,Young Adult,Standard
+586,36,male,2,rent,little,little,2799,9,car,1,0,311,Adult,Standard
+587,21,male,1,own,little,little,1289,12,furniture/equipment,1,0,107.416666666667,Young Adult,Standard
+588,47,male,1,own,little,little,1217,18,domestic appliances,2,1,67.6111111111111,Senior,Standard
+589,60,male,2,own,little,little,2246,12,furniture/equipment,2,1,187.166666666667,Senior,Standard
+590,58,female,1,own,little,little,385,12,radio/TV,1,0,32.0833333333333,Senior,Standard
+591,42,female,2,rent,none/unknown,moderate,1965,24,car,1,0,81.875,Adult,Standard
+592,36,female,1,own,rich,none/unknown,1572,21,business,1,0,74.8571428571429,Adult,Low Risk
+593,20,female,1,rent,little,moderate,2718,24,car,2,1,113.25,Young Adult,Standard
+594,40,male,3,own,none/unknown,little,1358,24,vacation/others,2,1,56.5833333333333,Adult,Standard
+595,32,female,1,own,moderate,moderate,931,6,car,2,1,155.166666666667,Adult,Standard
+596,23,female,2,rent,little,little,1442,24,car,2,1,60.0833333333333,Young Adult,Standard
+597,36,male,1,own,little,moderate,4241,24,business,2,1,176.708333333333,Adult,Standard
+598,31,male,2,own,little,none/unknown,2775,18,car,2,1,154.166666666667,Adult,Standard
+599,32,male,2,free,little,none/unknown,3863,24,business,1,0,160.958333333333,Adult,Standard
+600,45,female,2,own,little,moderate,2329,7,radio/TV,1,0,332.714285714286,Adult,Standard
+601,30,female,2,own,little,moderate,918,9,furniture/equipment,2,1,102,Young Adult,Standard
+602,34,female,1,free,little,moderate,1837,24,education,2,1,76.5416666666667,Adult,Standard
+603,28,female,3,own,little,none/unknown,3349,36,furniture/equipment,2,1,93.0277777777778,Young Adult,Standard
+604,23,female,2,own,little,rich,1275,10,furniture/equipment,1,0,127.5,Young Adult,Standard
+605,22,male,2,own,quite rich,little,2828,24,furniture/equipment,1,0,117.833333333333,Young Adult,Low Risk
+606,74,male,3,own,little,none/unknown,4526,24,business,1,0,188.583333333333,Elderly,Standard
+607,50,female,2,free,moderate,moderate,2671,36,radio/TV,2,1,74.1944444444444,Senior,Standard
+608,33,male,2,own,little,none/unknown,2051,18,radio/TV,1,0,113.944444444444,Adult,Standard
+609,45,male,2,free,none/unknown,none/unknown,1300,15,car,1,0,86.6666666666667,Adult,Standard
+610,22,female,2,own,moderate,little,741,12,domestic appliances,2,1,61.75,Young Adult,Standard
+611,48,female,1,free,moderate,rich,1240,10,car,2,1,124,Senior,Standard
+612,29,female,2,own,rich,little,3357,21,radio/TV,1,0,159.857142857143,Young Adult,Low Risk
+613,22,female,2,rent,little,little,3632,24,car,1,0,151.333333333333,Young Adult,Standard
+614,22,female,2,own,little,none/unknown,1808,18,furniture/equipment,2,1,100.444444444444,Young Adult,Standard
+615,48,male,3,own,none/unknown,moderate,12204,48,business,1,0,254.25,Senior,Standard
+616,27,male,3,free,none/unknown,moderate,9157,60,radio/TV,1,0,152.616666666667,Young Adult,Standard
+617,37,male,2,rent,little,little,3676,6,car,1,0,612.666666666667,Adult,Standard
+618,21,female,2,rent,moderate,moderate,3441,30,furniture/equipment,2,1,114.7,Young Adult,Standard
+619,49,male,1,own,little,none/unknown,640,12,car,1,0,53.3333333333333,Senior,Standard
+620,27,male,2,own,little,moderate,3652,21,business,1,0,173.904761904762,Young Adult,Standard
+621,32,male,2,own,little,none/unknown,1530,18,car,2,1,85,Adult,Standard
+622,38,male,2,own,none/unknown,none/unknown,3914,48,business,2,1,81.5416666666667,Adult,Standard
+623,22,female,2,rent,little,little,1858,12,furniture/equipment,1,0,154.833333333333,Young Adult,Standard
+624,65,male,2,free,little,little,2600,18,radio/TV,2,1,144.444444444444,Elderly,Standard
+625,35,male,2,own,none/unknown,none/unknown,1979,15,radio/TV,1,0,131.933333333333,Adult,Standard
+626,41,male,2,own,little,rich,2116,6,furniture/equipment,1,0,352.666666666667,Adult,Standard
+627,29,male,2,own,moderate,moderate,1437,9,car,2,1,159.666666666667,Young Adult,Standard
+628,36,male,2,own,quite rich,none/unknown,4042,42,furniture/equipment,1,0,96.2380952380952,Adult,Low Risk
+629,64,male,1,own,none/unknown,none/unknown,3832,9,education,1,0,425.777777777778,Elderly,Standard
+630,28,female,2,own,little,little,3660,24,radio/TV,1,0,152.5,Young Adult,Standard
+631,44,male,2,own,little,little,1553,18,furniture/equipment,2,1,86.2777777777778,Adult,Standard
+632,23,male,2,own,none/unknown,moderate,1444,15,radio/TV,1,0,96.2666666666667,Young Adult,Standard
+633,19,female,2,rent,little,none/unknown,1980,9,furniture/equipment,2,1,220,Young Adult,Standard
+634,25,female,1,own,little,moderate,1355,24,car,2,1,56.4583333333333,Young Adult,Standard
+635,47,male,2,own,little,none/unknown,1393,12,education,1,0,116.083333333333,Senior,Standard
+636,28,female,2,own,quite rich,none/unknown,1376,24,radio/TV,1,0,57.3333333333333,Young Adult,Low Risk
+637,21,male,2,own,little,none/unknown,15653,60,radio/TV,1,0,260.883333333333,Young Adult,Critical Risk
+638,34,female,2,own,little,none/unknown,1493,12,radio/TV,1,0,124.416666666667,Adult,Standard
+639,26,male,2,own,little,little,4370,42,radio/TV,2,1,104.047619047619,Young Adult,Standard
+640,27,female,0,own,little,little,750,18,education,2,1,41.6666666666667,Young Adult,Standard
+641,38,male,1,own,little,moderate,1308,15,repairs,1,0,87.2,Adult,Standard
+642,40,male,3,own,moderate,none/unknown,4623,15,education,2,1,308.2,Adult,Standard
+643,33,male,2,own,little,none/unknown,1851,24,radio/TV,1,0,77.125,Adult,Standard
+644,32,male,3,own,little,little,1880,18,radio/TV,1,0,104.444444444444,Adult,Standard
+645,27,male,2,rent,none/unknown,none/unknown,7980,36,business,2,1,221.666666666667,Young Adult,Standard
+646,32,male,2,own,little,little,4583,30,furniture/equipment,1,0,152.766666666667,Adult,Standard
+647,26,female,2,own,quite rich,none/unknown,1386,12,car,2,1,115.5,Young Adult,Low Risk
+648,38,male,2,free,little,rich,947,24,car,2,1,39.4583333333333,Adult,Standard
+649,40,male,1,rent,little,little,684,12,education,2,1,57,Adult,Standard
+650,50,male,3,free,little,little,7476,48,education,1,0,155.75,Senior,Critical Risk
+651,37,male,1,own,little,moderate,1922,12,furniture/equipment,2,1,160.166666666667,Adult,Standard
+652,45,male,2,own,little,little,2303,24,car,2,1,95.9583333333333,Adult,Standard
+653,42,male,3,own,moderate,moderate,8086,36,car,2,1,224.611111111111,Adult,Standard
+654,35,male,2,own,little,none/unknown,2346,24,car,1,0,97.75,Adult,Standard
+655,22,male,2,free,little,little,3973,14,car,1,0,283.785714285714,Young Adult,Standard
+656,41,male,1,own,little,moderate,888,12,car,2,1,74,Adult,Standard
+657,37,male,2,own,none/unknown,none/unknown,10222,48,radio/TV,1,0,212.958333333333,Adult,Standard
+658,28,female,2,own,little,moderate,4221,30,business,1,0,140.7,Young Adult,Standard
+659,41,male,2,own,little,moderate,6361,18,furniture/equipment,1,0,353.388888888889,Adult,Critical Risk
+660,23,male,2,rent,little,rich,1297,12,radio/TV,1,0,108.083333333333,Young Adult,Standard
+661,23,male,2,own,none/unknown,little,900,12,car,2,1,75,Young Adult,Standard
+662,50,male,2,own,little,none/unknown,2241,21,furniture/equipment,1,0,106.714285714286,Senior,Standard
+663,35,male,3,own,little,moderate,1050,6,furniture/equipment,1,0,175,Adult,Standard
+664,50,female,1,own,little,rich,1047,6,education,1,0,174.5,Senior,Standard
+665,27,male,3,own,little,none/unknown,6314,24,vacation/others,1,0,263.083333333333,Young Adult,Critical Risk
+666,34,male,2,own,rich,moderate,3496,30,furniture/equipment,1,0,116.533333333333,Adult,Low Risk
+667,27,female,2,own,little,none/unknown,3609,48,business,1,0,75.1875,Young Adult,Standard
+668,43,male,2,rent,little,little,4843,12,car,2,1,403.583333333333,Adult,Standard
+669,47,male,2,own,little,rich,3017,30,radio/TV,1,0,100.566666666667,Senior,Standard
+670,27,male,1,own,moderate,none/unknown,4139,24,business,1,0,172.458333333333,Young Adult,Standard
+671,31,male,2,own,moderate,none/unknown,5742,36,business,1,0,159.5,Adult,Standard
+672,42,male,3,own,little,none/unknown,10366,60,car,1,0,172.766666666667,Adult,Critical Risk
+673,24,male,2,own,quite rich,none/unknown,2080,6,car,1,0,346.666666666667,Young Adult,Low Risk
+674,41,male,1,own,quite rich,none/unknown,2580,21,business,2,1,122.857142857143,Adult,Low Risk
+675,26,female,3,rent,little,none/unknown,4530,30,radio/TV,1,0,151,Young Adult,Standard
+676,33,male,2,own,little,none/unknown,5150,24,furniture/equipment,1,0,214.583333333333,Adult,Critical Risk
+677,24,male,2,own,moderate,moderate,5595,72,radio/TV,2,1,77.7083333333333,Young Adult,Standard
+678,64,male,1,rent,little,little,2384,24,radio/TV,1,0,99.3333333333333,Elderly,Standard
+679,26,female,2,own,little,none/unknown,1453,18,radio/TV,1,0,80.7222222222222,Young Adult,Standard
+680,56,female,2,own,little,none/unknown,1538,6,education,1,0,256.333333333333,Senior,Standard
+681,37,male,2,free,none/unknown,none/unknown,2279,12,radio/TV,1,0,189.916666666667,Adult,Standard
+682,33,male,2,own,little,none/unknown,1478,15,radio/TV,1,0,98.5333333333333,Adult,Standard
+683,47,male,2,free,little,none/unknown,5103,24,radio/TV,1,0,212.625,Senior,Critical Risk
+684,31,male,1,own,moderate,moderate,9857,36,business,1,0,273.805555555556,Adult,Standard
+685,34,male,2,free,none/unknown,none/unknown,6527,60,car,1,0,108.783333333333,Adult,Standard
+686,27,male,2,own,none/unknown,rich,1347,10,radio/TV,1,0,134.7,Young Adult,Standard
+687,30,male,2,free,moderate,moderate,2862,36,car,1,0,79.5,Young Adult,Standard
+688,35,male,2,own,moderate,none/unknown,2753,9,radio/TV,1,0,305.888888888889,Adult,Standard
+689,31,male,2,own,rich,little,3651,12,car,1,0,304.25,Adult,Low Risk
+690,25,male,2,own,little,little,975,15,furniture/equipment,1,0,65,Young Adult,Standard
+691,25,female,1,own,moderate,moderate,2631,15,repairs,1,0,175.4,Young Adult,Standard
+692,29,male,2,own,moderate,moderate,2896,24,radio/TV,1,0,120.666666666667,Young Adult,Standard
+693,44,male,1,own,none/unknown,little,4716,6,car,1,0,786,Adult,Standard
+694,28,male,2,own,little,none/unknown,2284,24,radio/TV,1,0,95.1666666666667,Young Adult,Standard
+695,50,male,2,rent,quite rich,none/unknown,1236,6,car,1,0,206,Senior,Low Risk
+696,29,male,2,own,little,moderate,1103,12,radio/TV,1,0,91.9166666666667,Young Adult,Standard
+697,38,female,0,own,little,none/unknown,926,12,car,1,0,77.1666666666667,Adult,Standard
+698,24,male,2,own,little,none/unknown,1800,18,radio/TV,1,0,100,Young Adult,Standard
+699,40,male,3,rent,little,rich,1905,15,education,1,0,127,Adult,Standard
+700,29,female,1,rent,quite rich,none/unknown,1123,12,furniture/equipment,2,1,93.5833333333333,Young Adult,Low Risk
+701,46,male,2,free,little,little,6331,48,car,2,1,131.895833333333,Senior,Critical Risk
+702,47,female,2,free,moderate,rich,1377,24,radio/TV,1,0,57.375,Senior,Standard
+703,41,male,2,own,moderate,moderate,2503,30,business,1,0,83.4333333333333,Adult,Standard
+704,32,female,2,own,little,moderate,2528,27,business,1,0,93.6296296296296,Adult,Standard
+705,35,female,2,free,quite rich,none/unknown,5324,15,car,1,0,354.933333333333,Adult,Low Risk
+706,24,male,2,own,moderate,moderate,6560,48,car,2,1,136.666666666667,Young Adult,Standard
+707,25,female,2,rent,little,moderate,2969,12,furniture/equipment,2,1,247.416666666667,Young Adult,Standard
+708,25,female,2,own,little,moderate,1206,9,radio/TV,1,0,134,Young Adult,Standard
+709,37,male,1,own,little,moderate,2118,9,radio/TV,1,0,235.333333333333,Adult,Standard
+710,32,male,3,own,quite rich,none/unknown,629,18,radio/TV,1,0,34.9444444444444,Adult,Low Risk
+711,35,female,2,free,little,little,1198,6,education,2,1,199.666666666667,Adult,Standard
+712,46,male,3,own,none/unknown,none/unknown,2476,21,car,1,0,117.904761904762,Senior,Standard
+713,25,male,1,own,little,little,1138,9,radio/TV,1,0,126.444444444444,Young Adult,Standard
+714,27,male,3,own,little,moderate,14027,60,car,2,1,233.783333333333,Young Adult,Critical Risk
+715,63,male,2,own,none/unknown,none/unknown,7596,30,car,1,0,253.2,Elderly,Standard
+716,40,male,2,own,none/unknown,none/unknown,3077,30,radio/TV,1,0,102.566666666667,Adult,Standard
+717,32,male,3,free,little,none/unknown,1505,18,radio/TV,1,0,83.6111111111111,Adult,Standard
+718,31,male,2,own,none/unknown,rich,3148,24,radio/TV,1,0,131.166666666667,Adult,Standard
+719,31,male,2,own,moderate,moderate,6148,20,car,1,0,307.4,Adult,Standard
+720,34,male,3,own,little,rich,1337,9,radio/TV,2,1,148.555555555556,Adult,Standard
+721,24,female,2,rent,rich,moderate,433,6,education,2,1,72.1666666666667,Young Adult,Low Risk
+722,24,female,1,own,little,little,1228,12,car,2,1,102.333333333333,Young Adult,Standard
+723,66,female,1,own,quite rich,moderate,790,9,radio/TV,1,0,87.7777777777778,Elderly,Low Risk
+724,21,female,2,rent,little,none/unknown,2570,27,car,2,1,95.1851851851852,Young Adult,Standard
+725,41,female,1,own,rich,none/unknown,250,6,car,1,0,41.6666666666667,Adult,Low Risk
+726,47,male,1,own,quite rich,none/unknown,1316,15,radio/TV,1,0,87.7333333333333,Senior,Low Risk
+727,25,female,2,rent,little,little,1882,18,radio/TV,2,1,104.555555555556,Young Adult,Standard
+728,59,female,2,rent,little,moderate,6416,48,business,2,1,133.666666666667,Senior,Critical Risk
+729,36,male,2,own,rich,rich,1275,24,business,1,0,53.125,Adult,Low Risk
+730,33,male,2,own,little,moderate,6403,24,radio/TV,1,0,266.791666666667,Adult,Critical Risk
+731,21,male,1,rent,little,little,1987,24,radio/TV,2,1,82.7916666666667,Young Adult,Standard
+732,44,female,1,own,little,moderate,760,8,radio/TV,1,0,95,Adult,Standard
+733,28,female,2,rent,rich,none/unknown,2603,24,car,1,0,108.458333333333,Young Adult,Low Risk
+734,37,female,2,own,little,none/unknown,3380,4,car,1,0,845,Adult,Standard
+735,29,female,0,own,none/unknown,moderate,3990,36,domestic appliances,1,0,110.833333333333,Young Adult,Standard
+736,23,female,3,rent,little,moderate,11560,24,car,2,1,481.666666666667,Young Adult,Critical Risk
+737,35,male,1,own,moderate,little,4380,18,car,1,0,243.333333333333,Adult,Standard
+738,45,male,3,own,little,none/unknown,6761,6,car,1,0,1126.83333333333,Adult,Critical Risk
+739,26,female,1,rent,moderate,moderate,4280,30,business,2,1,142.666666666667,Young Adult,Standard
+740,32,male,2,own,moderate,little,2325,24,car,1,0,96.875,Adult,Standard
+741,23,male,1,own,little,moderate,1048,10,radio/TV,1,0,104.8,Young Adult,Standard
+742,41,male,2,own,none/unknown,none/unknown,3160,21,radio/TV,1,0,150.47619047619,Adult,Standard
+743,22,male,2,own,quite rich,little,2483,24,furniture/equipment,1,0,103.458333333333,Young Adult,Low Risk
+744,30,male,3,own,none/unknown,little,14179,39,furniture/equipment,1,0,363.564102564103,Young Adult,Standard
+745,28,male,1,own,little,little,1797,13,business,1,0,138.230769230769,Young Adult,Standard
+746,23,female,2,rent,little,little,2511,15,car,1,0,167.4,Young Adult,Standard
+747,37,female,1,own,little,little,1274,12,car,2,1,106.166666666667,Adult,Standard
+748,26,male,2,own,none/unknown,none/unknown,5248,21,car,1,0,249.904761904762,Young Adult,Standard
+749,33,male,2,own,little,none/unknown,3029,15,car,1,0,201.933333333333,Adult,Standard
+750,49,female,2,own,little,little,428,6,furniture/equipment,1,0,71.3333333333333,Senior,Standard
+751,23,female,1,own,little,little,976,18,car,2,1,54.2222222222222,Young Adult,Standard
+752,23,female,1,rent,moderate,moderate,841,12,business,1,0,70.0833333333333,Young Adult,Standard
+753,25,female,2,own,little,none/unknown,5771,30,radio/TV,1,0,192.366666666667,Young Adult,Critical Risk
+754,55,male,2,free,rich,none/unknown,1555,12,repairs,2,1,129.583333333333,Senior,Low Risk
+755,32,female,2,rent,none/unknown,little,1285,24,car,2,1,53.5416666666667,Adult,Standard
+756,74,male,0,own,little,rich,1299,6,car,1,0,216.5,Elderly,Standard
+757,39,male,2,free,none/unknown,rich,1271,15,radio/TV,2,1,84.7333333333333,Adult,Standard
+758,31,male,2,own,little,none/unknown,1393,24,car,1,0,58.0416666666667,Adult,Standard
+759,35,male,2,own,little,little,691,12,car,2,1,57.5833333333333,Adult,Standard
+760,59,female,2,own,none/unknown,none/unknown,5045,15,car,1,0,336.333333333333,Senior,Standard
+761,24,female,2,rent,little,little,2124,18,furniture/equipment,2,1,118,Young Adult,Standard
+762,24,male,1,own,little,little,2214,12,radio/TV,1,0,184.5,Young Adult,Standard
+763,30,male,3,free,none/unknown,none/unknown,12680,21,car,2,1,603.809523809524,Young Adult,Standard
+764,27,male,2,own,moderate,none/unknown,2463,24,car,1,0,102.625,Young Adult,Standard
+765,40,male,1,own,little,moderate,1155,12,radio/TV,1,0,96.25,Adult,Standard
+766,31,male,1,own,little,little,3108,30,furniture/equipment,2,1,103.6,Adult,Standard
+767,31,female,2,rent,none/unknown,none/unknown,2901,10,car,1,0,290.1,Adult,Standard
+768,28,male,2,rent,little,moderate,3617,12,furniture/equipment,1,0,301.416666666667,Young Adult,Standard
+769,63,male,1,own,little,none/unknown,1655,12,radio/TV,1,0,137.916666666667,Elderly,Standard
+770,26,female,2,rent,none/unknown,little,2812,24,car,1,0,117.166666666667,Young Adult,Standard
+771,25,female,3,own,little,little,8065,36,education,2,1,224.027777777778,Young Adult,Critical Risk
+772,36,male,3,own,little,none/unknown,3275,21,car,1,0,155.952380952381,Adult,Standard
+773,52,male,2,own,moderate,none/unknown,2223,24,radio/TV,1,0,92.625,Senior,Standard
+774,66,male,0,free,quite rich,rich,1480,12,car,1,0,123.333333333333,Elderly,Low Risk
+775,25,female,2,rent,none/unknown,little,1371,24,car,2,1,57.125,Young Adult,Standard
+776,37,male,2,own,little,none/unknown,3535,36,car,1,0,98.1944444444444,Adult,Standard
+777,25,female,2,own,little,little,3509,18,radio/TV,1,0,194.944444444444,Young Adult,Standard
+778,38,male,3,own,rich,none/unknown,5711,36,car,1,0,158.638888888889,Adult,Low Risk
+779,67,female,2,own,little,moderate,3872,18,repairs,1,0,215.111111111111,Elderly,Standard
+780,25,male,2,own,little,moderate,4933,39,radio/TV,2,1,126.487179487179,Young Adult,Standard
+781,60,male,2,own,rich,none/unknown,1940,24,car,1,0,80.8333333333333,Senior,Low Risk
+782,31,male,1,own,little,moderate,1410,12,education,1,0,117.5,Adult,Standard
+783,23,female,1,own,moderate,moderate,836,12,car,2,1,69.6666666666667,Young Adult,Standard
+784,60,male,3,own,none/unknown,moderate,6468,20,car,1,0,323.4,Senior,Standard
+785,35,male,1,own,rich,moderate,1941,18,business,1,0,107.833333333333,Adult,Low Risk
+786,40,male,2,own,quite rich,none/unknown,2675,22,radio/TV,1,0,121.590909090909,Adult,Low Risk
+787,38,male,2,own,none/unknown,none/unknown,2751,48,car,1,0,57.3125,Adult,Standard
+788,50,male,2,free,little,moderate,6224,48,education,2,1,129.666666666667,Senior,Critical Risk
+789,27,male,2,own,little,little,5998,40,education,2,1,149.95,Young Adult,Critical Risk
+790,39,female,2,own,little,moderate,1188,21,business,2,1,56.5714285714286,Adult,Standard
+791,41,male,3,own,none/unknown,none/unknown,6313,24,car,1,0,263.041666666667,Adult,Standard
+792,27,male,2,own,none/unknown,none/unknown,1221,6,furniture/equipment,1,0,203.5,Young Adult,Standard
+793,51,male,2,free,little,rich,2892,24,furniture/equipment,1,0,120.5,Senior,Standard
+794,32,male,2,rent,quite rich,none/unknown,3062,24,furniture/equipment,1,0,127.583333333333,Adult,Low Risk
+795,22,female,2,rent,moderate,none/unknown,2301,9,furniture/equipment,1,0,255.666666666667,Young Adult,Standard
+796,51,male,2,free,none/unknown,little,7511,18,car,2,1,417.277777777778,Senior,Standard
+797,22,female,1,rent,little,none/unknown,1258,12,furniture/equipment,1,0,104.833333333333,Young Adult,Standard
+798,54,male,2,own,none/unknown,none/unknown,717,24,car,1,0,29.875,Senior,Standard
+799,35,male,0,own,none/unknown,moderate,1549,9,car,1,0,172.111111111111,Adult,Standard
+800,54,male,2,free,little,none/unknown,1597,24,education,1,0,66.5416666666667,Senior,Standard
+801,48,female,1,rent,little,moderate,1795,18,radio/TV,1,0,99.7222222222222,Senior,Standard
+802,24,female,2,own,little,little,4272,20,furniture/equipment,1,0,213.6,Young Adult,Standard
+803,35,male,2,own,none/unknown,none/unknown,976,12,radio/TV,1,0,81.3333333333333,Adult,Standard
+804,24,female,0,rent,none/unknown,moderate,7472,12,car,1,0,622.666666666667,Young Adult,Standard
+805,24,male,2,own,little,little,9271,36,car,2,1,257.527777777778,Young Adult,Critical Risk
+806,26,male,1,own,little,moderate,590,6,radio/TV,1,0,98.3333333333333,Young Adult,Standard
+807,65,male,2,own,none/unknown,none/unknown,930,12,radio/TV,1,0,77.5,Elderly,Standard
+808,55,male,3,free,little,moderate,9283,42,car,1,0,221.02380952381,Senior,Critical Risk
+809,26,female,0,rent,little,moderate,1778,15,car,2,1,118.533333333333,Young Adult,Standard
+810,26,male,2,own,little,moderate,907,8,business,1,0,113.375,Young Adult,Standard
+811,28,male,1,own,little,moderate,484,6,radio/TV,1,0,80.6666666666667,Young Adult,Standard
+812,24,male,2,own,little,little,9629,36,car,2,1,267.472222222222,Young Adult,Critical Risk
+813,54,male,2,own,little,little,3051,48,domestic appliances,2,1,63.5625,Senior,Standard
+814,46,male,2,free,little,little,3931,48,car,2,1,81.8958333333333,Senior,Standard
+815,54,female,2,rent,little,moderate,7432,36,car,1,0,206.444444444444,Senior,Critical Risk
+816,62,male,2,own,quite rich,none/unknown,1338,6,domestic appliances,1,0,223,Elderly,Low Risk
+817,24,female,2,rent,little,none/unknown,1554,6,radio/TV,1,0,259,Young Adult,Standard
+818,43,male,3,own,little,little,15857,36,vacation/others,1,0,440.472222222222,Adult,Critical Risk
+819,26,male,2,own,little,little,1345,18,radio/TV,2,1,74.7222222222222,Young Adult,Standard
+820,27,male,2,own,little,none/unknown,1101,12,car,1,0,91.75,Young Adult,Standard
+821,24,male,2,own,little,rich,3016,12,radio/TV,1,0,251.333333333333,Young Adult,Standard
+822,41,male,2,own,little,little,2712,36,furniture/equipment,2,1,75.3333333333333,Adult,Standard
+823,47,male,1,own,little,little,731,8,car,1,0,91.375,Senior,Standard
+824,35,male,3,own,little,none/unknown,3780,18,furniture/equipment,1,0,210,Adult,Standard
+825,30,male,2,own,little,little,1602,21,car,1,0,76.2857142857143,Young Adult,Standard
+826,33,female,2,rent,little,little,3966,18,car,2,1,220.333333333333,Adult,Standard
+827,36,male,2,own,little,none/unknown,4165,18,business,2,1,231.388888888889,Adult,Standard
+828,47,male,2,free,none/unknown,little,8335,36,car,2,1,231.527777777778,Senior,Standard
+829,38,male,2,free,none/unknown,moderate,6681,48,business,1,0,139.1875,Adult,Standard
+830,44,male,2,own,quite rich,none/unknown,2375,24,business,1,0,98.9583333333333,Adult,Low Risk
+831,23,female,2,rent,little,little,1216,18,car,2,1,67.5555555555556,Young Adult,Standard
+832,29,male,2,rent,little,little,11816,45,business,2,1,262.577777777778,Young Adult,Critical Risk
+833,42,female,2,own,none/unknown,moderate,5084,24,radio/TV,1,0,211.833333333333,Adult,Standard
+834,25,female,1,own,little,rich,2327,15,radio/TV,2,1,155.133333333333,Young Adult,Standard
+835,48,male,2,own,little,little,1082,12,car,2,1,90.1666666666667,Senior,Standard
+836,21,female,2,own,none/unknown,none/unknown,886,12,radio/TV,1,0,73.8333333333333,Young Adult,Standard
+837,23,female,1,rent,little,none/unknown,601,4,furniture/equipment,1,0,150.25,Young Adult,Standard
+838,63,male,2,own,little,little,2957,24,car,1,0,123.208333333333,Elderly,Standard
+839,46,male,2,own,little,none/unknown,2611,24,radio/TV,1,0,108.791666666667,Senior,Standard
+840,29,male,2,own,little,little,5179,36,furniture/equipment,2,1,143.861111111111,Young Adult,Critical Risk
+841,28,male,1,own,little,none/unknown,2993,21,car,1,0,142.52380952381,Young Adult,Standard
+842,23,female,2,own,little,none/unknown,1943,18,repairs,2,1,107.944444444444,Young Adult,Standard
+843,50,male,2,own,little,none/unknown,1559,24,business,1,0,64.9583333333333,Senior,Standard
+844,47,male,2,own,little,none/unknown,3422,18,furniture/equipment,1,0,190.111111111111,Senior,Standard
+845,35,male,2,own,none/unknown,moderate,3976,21,furniture/equipment,1,0,189.333333333333,Adult,Standard
+846,68,male,2,rent,none/unknown,none/unknown,6761,18,car,2,1,375.611111111111,Elderly,Standard
+847,28,male,2,own,little,none/unknown,1249,24,car,1,0,52.0416666666667,Young Adult,Standard
+848,59,male,2,own,little,little,1364,9,radio/TV,1,0,151.555555555556,Senior,Standard
+849,57,male,1,own,little,little,709,12,radio/TV,2,1,59.0833333333333,Senior,Standard
+850,33,male,2,rent,little,little,2235,20,car,2,1,111.75,Adult,Standard
+851,43,male,2,own,none/unknown,none/unknown,4042,24,car,1,0,168.416666666667,Adult,Standard
+852,35,male,2,free,little,none/unknown,1471,15,radio/TV,1,0,98.0666666666667,Adult,Standard
+853,32,male,1,free,little,little,1442,18,car,2,1,80.1111111111111,Adult,Standard
+854,45,male,2,own,little,none/unknown,10875,36,car,1,0,302.083333333333,Adult,Critical Risk
+855,33,male,2,own,moderate,none/unknown,1474,24,car,1,0,61.4166666666667,Adult,Standard
+856,40,female,2,own,none/unknown,none/unknown,894,10,education,1,0,89.4,Adult,Standard
+857,28,male,2,free,little,none/unknown,3343,15,furniture/equipment,1,0,222.866666666667,Young Adult,Standard
+858,29,female,2,own,little,little,3959,15,car,2,1,263.933333333333,Young Adult,Standard
+859,26,male,2,rent,moderate,none/unknown,3577,9,car,1,0,397.444444444444,Young Adult,Standard
+860,27,male,2,own,rich,none/unknown,5804,24,car,1,0,241.833333333333,Young Adult,Low Risk
+861,28,male,2,own,little,none/unknown,2169,18,business,2,1,120.5,Young Adult,Standard
+862,35,female,2,own,little,little,2439,24,radio/TV,2,1,101.625,Adult,Standard
+863,32,male,1,own,rich,none/unknown,4526,27,furniture/equipment,1,0,167.62962962963,Adult,Low Risk
+864,25,male,1,rent,little,none/unknown,2210,10,furniture/equipment,2,1,221,Young Adult,Standard
+865,20,female,2,rent,quite rich,none/unknown,2221,15,furniture/equipment,1,0,148.066666666667,Young Adult,Low Risk
+866,27,female,2,own,little,little,2389,18,radio/TV,1,0,132.722222222222,Young Adult,Standard
+867,42,male,2,own,little,none/unknown,3331,12,furniture/equipment,1,0,277.583333333333,Adult,Standard
+868,37,male,2,own,none/unknown,none/unknown,7409,36,business,1,0,205.805555555556,Adult,Standard
+869,24,female,2,rent,little,little,652,12,furniture/equipment,1,0,54.3333333333333,Young Adult,Standard
+870,40,female,2,own,quite rich,none/unknown,7678,36,furniture/equipment,1,0,213.277777777778,Adult,Low Risk
+871,46,male,2,own,little,rich,1343,6,car,1,0,223.833333333333,Senior,Standard
+872,26,male,2,own,moderate,little,1382,24,business,1,0,57.5833333333333,Young Adult,Standard
+873,24,female,2,own,none/unknown,none/unknown,874,15,domestic appliances,1,0,58.2666666666667,Young Adult,Standard
+874,29,male,1,own,little,little,3590,12,furniture/equipment,1,0,299.166666666667,Young Adult,Standard
+875,40,female,2,own,rich,moderate,1322,11,car,1,0,120.181818181818,Adult,Low Risk
+876,36,male,3,free,little,little,1940,18,radio/TV,1,0,107.777777777778,Adult,Standard
+877,28,male,2,own,little,none/unknown,3595,36,radio/TV,1,0,99.8611111111111,Young Adult,Standard
+878,27,male,3,free,little,little,1422,9,car,2,1,158,Young Adult,Standard
+879,36,male,2,own,none/unknown,none/unknown,6742,30,radio/TV,1,0,224.733333333333,Adult,Standard
+880,38,male,3,own,little,none/unknown,7814,24,car,1,0,325.583333333333,Adult,Critical Risk
+881,48,male,2,free,none/unknown,none/unknown,9277,24,car,1,0,386.541666666667,Senior,Standard
+882,36,male,2,own,none/unknown,moderate,2181,30,car,1,0,72.7,Adult,Standard
+883,65,female,0,own,little,none/unknown,1098,18,radio/TV,1,0,61,Elderly,Standard
+884,43,male,2,own,little,moderate,4057,24,furniture/equipment,2,1,169.041666666667,Adult,Standard
+885,53,female,2,own,little,little,795,12,education,2,1,66.25,Senior,Standard
+886,34,male,2,own,none/unknown,moderate,2825,24,business,1,0,117.708333333333,Adult,Standard
+887,23,male,2,own,little,moderate,15672,48,business,2,1,326.5,Young Adult,Critical Risk
+888,34,male,3,own,little,none/unknown,6614,36,car,1,0,183.722222222222,Adult,Critical Risk
+889,40,male,2,rent,none/unknown,none/unknown,7824,28,car,1,0,279.428571428571,Adult,Standard
+890,43,male,3,own,little,little,2442,27,business,1,0,90.4444444444444,Adult,Standard
+891,46,male,2,own,little,none/unknown,1829,15,radio/TV,1,0,121.933333333333,Senior,Standard
+892,38,male,1,own,little,little,2171,12,car,1,0,180.916666666667,Adult,Standard
+893,34,male,2,own,little,moderate,5800,36,car,1,0,161.111111111111,Adult,Critical Risk
+894,29,male,2,own,none/unknown,none/unknown,1169,18,radio/TV,1,0,64.9444444444444,Young Adult,Standard
+895,31,male,3,own,none/unknown,none/unknown,8947,36,car,1,0,248.527777777778,Adult,Standard
+896,28,female,3,rent,little,little,2606,21,radio/TV,1,0,124.095238095238,Young Adult,Standard
+897,35,female,2,own,rich,none/unknown,1592,12,furniture/equipment,1,0,132.666666666667,Adult,Low Risk
+898,33,female,1,rent,none/unknown,none/unknown,2186,15,furniture/equipment,1,0,145.733333333333,Adult,Standard
+899,42,male,2,own,little,little,4153,18,furniture/equipment,2,1,230.722222222222,Adult,Standard
+900,43,male,2,rent,little,little,2625,16,car,2,1,164.0625,Adult,Standard
+901,44,male,2,own,none/unknown,none/unknown,3485,20,car,1,0,174.25,Adult,Standard
+902,42,male,2,free,none/unknown,none/unknown,10477,36,car,1,0,291.027777777778,Adult,Standard
+903,40,male,2,rent,none/unknown,none/unknown,1386,15,radio/TV,1,0,92.4,Adult,Standard
+904,36,male,3,own,little,none/unknown,1278,24,radio/TV,1,0,53.25,Adult,Standard
+905,20,male,3,rent,little,little,1107,12,radio/TV,1,0,92.25,Young Adult,Standard
+906,24,male,1,own,none/unknown,little,3763,21,car,1,0,179.190476190476,Young Adult,Standard
+907,27,male,2,own,none/unknown,moderate,3711,36,education,1,0,103.083333333333,Young Adult,Standard
+908,46,female,1,own,little,none/unknown,3594,15,car,1,0,239.6,Senior,Standard
+909,33,female,1,own,none/unknown,moderate,3195,9,car,1,0,355,Adult,Standard
+910,34,female,2,own,little,none/unknown,4454,36,radio/TV,1,0,123.722222222222,Adult,Standard
+911,25,female,1,own,little,moderate,4736,24,furniture/equipment,2,1,197.333333333333,Young Adult,Standard
+912,25,female,2,own,none/unknown,moderate,2991,30,radio/TV,1,0,99.7,Young Adult,Standard
+913,28,male,2,own,rich,none/unknown,2142,11,business,1,0,194.727272727273,Young Adult,Low Risk
+914,31,male,2,rent,little,little,3161,24,business,2,1,131.708333333333,Adult,Standard
+915,32,female,3,own,little,moderate,18424,48,vacation/others,2,1,383.833333333333,Adult,Critical Risk
+916,32,male,2,own,moderate,none/unknown,2848,10,car,1,0,284.8,Adult,Standard
+917,68,male,3,own,little,little,14896,6,car,2,1,2482.66666666667,Elderly,Critical Risk
+918,33,male,2,own,moderate,little,2359,24,furniture/equipment,2,1,98.2916666666667,Adult,Standard
+919,39,male,3,rent,little,little,3345,24,furniture/equipment,2,1,139.375,Adult,Standard
+920,28,female,2,own,little,none/unknown,1817,18,furniture/equipment,1,0,100.944444444444,Young Adult,Standard
+921,37,male,3,own,quite rich,none/unknown,12749,48,radio/TV,1,0,265.604166666667,Adult,Low Risk
+922,22,female,2,rent,little,little,1366,9,radio/TV,2,1,151.777777777778,Young Adult,Standard
+923,30,male,2,rent,little,moderate,2002,12,car,1,0,166.833333333333,Young Adult,Standard
+924,55,male,2,own,little,little,6872,24,furniture/equipment,2,1,286.333333333333,Senior,Critical Risk
+925,46,male,2,own,little,little,697,12,car,2,1,58.0833333333333,Senior,Standard
+926,21,female,2,rent,little,little,1049,18,furniture/equipment,1,0,58.2777777777778,Young Adult,Standard
+927,39,male,2,free,little,little,10297,48,car,2,1,214.520833333333,Adult,Critical Risk
+928,58,male,2,own,none/unknown,none/unknown,1867,30,radio/TV,1,0,62.2333333333333,Senior,Standard
+929,43,male,1,own,little,little,1344,12,car,1,0,112,Adult,Standard
+930,24,male,1,own,little,little,1747,24,furniture/equipment,1,0,72.7916666666667,Young Adult,Standard
+931,22,female,2,own,little,moderate,1670,9,radio/TV,2,1,185.555555555556,Young Adult,Standard
+932,30,male,2,own,little,none/unknown,1224,9,car,1,0,136,Young Adult,Standard
+933,42,male,2,own,quite rich,none/unknown,522,12,radio/TV,1,0,43.5,Adult,Low Risk
+934,23,female,2,own,little,little,1498,12,radio/TV,1,0,124.833333333333,Young Adult,Standard
+935,30,male,3,own,moderate,moderate,1919,30,radio/TV,2,1,63.9666666666667,Young Adult,Standard
+936,28,female,1,own,little,rich,745,9,radio/TV,2,1,82.7777777777778,Young Adult,Standard
+937,30,male,3,rent,little,moderate,2063,6,radio/TV,1,0,343.833333333333,Young Adult,Standard
+938,42,male,2,free,little,moderate,6288,60,education,2,1,104.8,Adult,Critical Risk
+939,46,male,3,own,none/unknown,none/unknown,6842,24,car,1,0,285.083333333333,Senior,Standard
+940,45,male,3,own,none/unknown,none/unknown,3527,12,car,1,0,293.916666666667,Adult,Standard
+941,31,male,1,own,little,none/unknown,1546,10,car,1,0,154.6,Adult,Standard
+942,31,male,2,own,none/unknown,none/unknown,929,24,furniture/equipment,1,0,38.7083333333333,Adult,Standard
+943,42,male,1,own,little,none/unknown,1455,4,car,1,0,363.75,Adult,Standard
+944,46,female,2,rent,little,little,1845,15,furniture/equipment,1,0,123,Senior,Standard
+945,30,female,2,own,quite rich,moderate,8358,48,car,1,0,174.125,Young Adult,Low Risk
+946,30,male,2,free,quite rich,little,3349,24,furniture/equipment,2,1,139.541666666667,Young Adult,Low Risk
+947,38,male,3,own,none/unknown,none/unknown,2859,12,car,1,0,238.25,Adult,Standard
+948,43,male,1,own,little,none/unknown,1533,18,furniture/equipment,2,1,85.1666666666667,Adult,Standard
+949,31,male,2,own,moderate,none/unknown,3621,24,radio/TV,2,1,150.875,Adult,Standard
+950,40,male,0,own,little,moderate,3590,18,business,1,0,199.444444444444,Adult,Standard
+951,24,male,2,own,little,little,2145,36,business,2,1,59.5833333333333,Young Adult,Standard
+952,28,female,2,rent,quite rich,moderate,4113,24,car,2,1,171.375,Young Adult,Low Risk
+953,26,female,3,own,little,none/unknown,10974,36,furniture/equipment,2,1,304.833333333333,Young Adult,Critical Risk
